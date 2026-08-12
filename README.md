@@ -1,29 +1,31 @@
 <div align="center">
 
-<!-- SUPER MARIO & MINECRAFT GAMING HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e52521,35:fbd000,70:009900,100:00e5ff&height=220&section=header&text=🍄%20SUPER%20PRASANA%20BROS&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=WORLD%201-1%20%7C%20LEVEL%2024%20DEVOPS%20%26%20FULL-STACK%20MASTER&descSize=16&descColor=ffffff&descAlignY=60" width="100%"/>
+<!-- SUPER MARIO & MINECRAFT GAMING HEADER BANNER (XML ERROR FREE) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e52521,35:fbd000,70:009900,100:00e5ff&height=200&section=header&text=SUPER%20PRASANA%20BROS&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=WORLD%201-1%20%7C%20LEVEL%2024%20DEVOPS%20AND%20FULL-STACK%20MASTER&descSize=16&descColor=ffffff&descAlignY=60" width="100%"/>
 
 <br/>
 
-<!-- ANIMATED MARIO & MINECRAFT SPRITES -->
+<!-- 3D ANIMATED GAME SPRITES (GUARANTEED HIGH-RES GITHUB CDN) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MartinHuy/MartinHuy/main/assets/mario.gif" width="60" alt="Mario Running"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="50" alt="Minecraft Diamond Block"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/MartinHuy/MartinHuy/main/assets/mario.gif" width="60" alt="Mario Running" style="transform: scaleX(-1);"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Mushroom.png" width="55" alt="Super Mushroom"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Games/Video%20Game.png" width="55" alt="Video Game"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="55" alt="Minecraft Diamond"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width="55" alt="Arcade Alien"/>
 </p>
 
-<!-- GAMING TYPING ANIMATION WITH PROPER HEIGHT TO PREVENT CLIPPING -->
+<!-- GAMING TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2500&pause=1000&color=FBD000&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=140&lines=%F0%9F%8D%84+WELCOME+TO+WORLD+1-1%3A+PRASANA+KUMAR+A;%F0%9F%8E%AE+PLAYER+CLASS%3A+DEVOPS+%26+SOFTWARE+ENGINEER;%F0%9F%92%8E+ARMOR%3A+DOCKER+%7C+KUBERNETES+%7C+PROMETHEUS;%E2%9A%A1+QUEST%3A+BUILDING+TECH4GOOD+SOLUTIONS" alt="Super Mario Gaming Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2500&pause=1000&color=FBD000&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=140&lines=WELCOME+TO+WORLD+1-1%3A+PRASANA+KUMAR+A;PLAYER+CLASS%3A+DEVOPS+AND+SOFTWARE+ENGINEER;ARMOR%3A+DOCKER+%7C+KUBERNETES+%7C+PROMETHEUS;QUEST%3A+BUILDING+TECH4GOOD+SOLUTIONS" alt="Super Mario Gaming Typing" />
 </a>
 
 <br/><br/>
 
 <!-- PLAYER BADGES -->
 [![Player Followers](https://img.shields.io/github/followers/PrasanaKumarA?label=PLAYER%20FOLLOWERS&style=for-the-badge&logo=nintendo-switch&logoColor=ffffff&color=e52521&labelColor=111111)](https://github.com/PrasanaKumarA?tab=followers)
-[![Total Stars](https://img.shields.io/github/stars/PrasanaKumarA?label=COINS%20%26%20STARS&style=for-the-badge&logo=star&logoColor=fbd000&color=009900&labelColor=111111)](https://github.com/PrasanaKumarA?tab=stars)
+[![Total Stars](https://img.shields.io/github/stars/PrasanaKumarA?label=COINS%20AND%20STARS&style=for-the-badge&logo=star&logoColor=fbd000&color=009900&labelColor=111111)](https://github.com/PrasanaKumarA?tab=stars)
 ![Profile Views](https://komarev.com/ghpvc/?username=PrasanaKumarA&style=for-the-badge&color=00e5ff&label=WORLD+XP)
 
 </div>
@@ -94,7 +96,7 @@ DIAMONDS : 💎 64x Stack Netherite Grade
 | ⚔️ **Quest 1** | **Grafana Prometheus WhatsApp Monitoring** | Real-time infrastructure monitoring pipeline with automated CPU & RAM WhatsApp alerts. | `Docker` `Prometheus` `Grafana` `Node.js` | [📜 View Project](https://github.com/PrasanaKumarA/grafana-prometheus-whatsapp-monitoring) |
 | 📚 **Quest 2** | **Idlibook (Zoho Books Replication)** | Enterprise financial accounting app designed for business transaction management. | `Python` `ERPNext` `SQL` | [📜 View Project](https://github.com/PrasanaKumarA/Idlibook) |
 | 🧪 **Quest 3** | **Idlistack Cypress Testing** | Automated end-to-end integration & web application testing framework. | `JavaScript` `Cypress` `QA` | [📜 View Project](https://github.com/PrasanaKumarA/Idlistack-testing-Cypress-) |
-| 💰 **Quest 4** | **Finance Management System** | Custom personal financial ledger and tracking application. | `PHP` `HTML/CSS` `SQL` | [📜 View Project](https://github.com/PrasanaKumarA/finance-system) |
+| 💰 **Quest 4** | **Finance Management System** | Custom personal financial ledger and tracking application. | `PHP` `HTML/CSS` `SQL` | [📜 View Project](https://github.com/PrasanaKumarA/Finance-system) |
 
 </div>
 
