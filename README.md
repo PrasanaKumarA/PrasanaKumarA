@@ -1,206 +1,183 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Prasana%20Kumar%20A&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Tech4Good%20Fellow%20%7C%20DevOps%20Engineer%20%7C%20Open%20Source%20Enthusiast&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
+<!-- RETRO GAMING HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:090d16,50:00f0ff,100:ff007f&height=200&section=header&text=🎮%20PRASANA%20KUMAR%20A&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=LEVEL%2024%20DEVOPS%20PALADIN%20%7C%20TECH4GOOD%20FELLOW&descSize=16&descColor=00f0ff&descAlignY=60&animation=twinkle" width="100%"/>
 
-<!-- TYPING SVG -->
+<!-- GAME TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%9A%80+Building+Infrastructure+That+Scales;%F0%9F%90%B3+Docker+%7C+%E2%98%B8%EF%B8%8F+Kubernetes+%7C+%F0%9F%93%8A+Monitoring;%E2%9A%A1+Automating+Everything+with+Open+Source" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=2500&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=80&lines=%E2%9A%94%EF%B8%8F+SELECT+PLAYER%3A+PRASANA+KUMAR;%F0%9F%90%B3+CLASS%3A+DEVOPS+%26+INFRASTRUCTURE+WIZARD;%F0%9F%90%8D+MISSION%3A+AUTOMATE+ALL+THE+THINGS;%E2%9A%A1+SPECIAL%3A+KUBERNETES+%2B+PROMETHEUS+%2B+FRAPPE" alt="Retro Gaming Typing" />
 </a>
+
+<br/><br/>
+
+<!-- CONTRIBUTION SNAKE GAME ANIMATION -->
+### 🐍 &nbsp;CONTRIBUTION SNAKE GAME
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrasanaKumarA/PrasanaKumarA/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrasanaKumarA/PrasanaKumarA/output/github-contribution-grid-snake.svg">
+    <img alt="Snake Contribution Game" src="https://raw.githubusercontent.com/PrasanaKumarA/PrasanaKumarA/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
+</p>
 
 <br/>
 
-<!-- SOCIAL BADGES -->
-[![GitHub followers](https://img.shields.io/github/followers/PrasanaKumarA?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=0d1117&labelColor=161b22)](https://github.com/PrasanaKumarA?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/PrasanaKumarA?label=Stars&style=for-the-badge&logo=github&logoColor=white&color=0d1117&labelColor=161b22)](https://github.com/PrasanaKumarA?tab=stars)
-![Profile Views](https://komarev.com/ghpvc/?username=PrasanaKumarA&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS)
+<!-- PLAYER BADGES -->
+[![Followers](https://img.shields.io/github/followers/PrasanaKumarA?label=PLAYER%20FOLLOWERS&style=for-the-badge&logo=gamepad&logoColor=00f0ff&color=090d16&labelColor=161b22)](https://github.com/PrasanaKumarA?tab=followers)
+[![Stars](https://img.shields.io/github/stars/PrasanaKumarA?label=TOTAL%20STARS&style=for-the-badge&logo=star&logoColor=ff007f&color=090d16&labelColor=161b22)](https://github.com/PrasanaKumarA?tab=stars)
+![Profile Views](https://komarev.com/ghpvc/?username=PrasanaKumarA&style=for-the-badge&color=00f0ff&label=XP+VIEWS)
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
+## 🕹️ &nbsp;PLAYER PROFILE & RPG STATS
 
-```yaml
-name: Prasana Kumar A
-role: Tech4Good Fellow
-organization: Tech4Good Community × Azim Premji Foundation
-location: India 🇮🇳
-current_focus: DevOps & Infrastructure Automation
+```ini
+[ PLAYER INFO ]
+Name       = Prasana Kumar A
+Title      = Tech4Good Fellow & DevOps Engineer
+Guild      = Tech4Good Community × Azim Premji Foundation
+Location   = India 🇮🇳
+Main Quest = Building scalable cloud infrastructure & automated observability pipelines
 
-interests:
-  - Building production-grade monitoring systems
-  - Container orchestration with Kubernetes & Docker
-  - Infrastructure as Code & CI/CD pipelines
-  - Open-source software for social impact
-  - Frappe/ERPNext ecosystem development
+[ ATTRIBUTE STATS ]
+HP  [HEALTH]     : ████████████████████ 100/100  (Coffee & Linux Kernel ☕)
+MP  [AUTOMATION] : ██████████████████░░  90/100  (Docker & Kubernetes Magic ✨)
+EXP [SKILL EXP]  : █████████████████░░░  85/100  (Prometheus, Grafana & Frappe 📊)
+STAMINA          : ████████████████████ 100/100  (Open Source Lover 🚀)
 
-philosophy: "Automate the boring stuff. Monitor everything. Ship with confidence."
+[ SPECIAL ABILITIES ]
+✦ Container Orchestration (Docker Compose, Kubernetes, K3s, Helm)
+✦ Real-Time Observability (Prometheus, Grafana, WhatsApp Alert Webhooks)
+✦ Enterprise ERP (Frappe Framework, ERPNext customization)
+✦ Automated QA & Testing (Cypress, E2E Integration)
 ```
 
 ---
 
-## 🛠️ &nbsp;Tech Arsenal
+## ⚔️ &nbsp;TECH ARSENAL & EQUIPMENT
 
 <div align="center">
 
-### 💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-</p>
-
-### 🏗️ Frameworks & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Frappe-0089FF?style=for-the-badge&logo=frappe&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ERPNext-0089FF?style=for-the-badge&logo=frappe&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-</p>
-
-### 🐳 DevOps & Infrastructure
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/K3s-FFC61C?style=for-the-badge&logo=k3s&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-</p>
-
-### 📊 Monitoring & Observability
-<p>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node_Exporter-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-</p>
-
-### ☁️ Cloud & Tools
-<p>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
-### 🧪 Testing
-<p>
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BrowserStack-FF6C37?style=for-the-badge&logo=browserstack&logoColor=white"/>
-</p>
-
-</div>
-
----
-
-## 📈 &nbsp;GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrasanaKumarA&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasanaKumarA&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
-</div>
-
+### 🛡️ Mastered Skill Icons
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrasanaKumarA&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=161b22&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" alt="GitHub Streak" width="700"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrasanaKumarA&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Activity Graph"/>
-</div>
-
----
-
-## 🚀 &nbsp;Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/PrasanaKumarA/grafana-prometheus-whatsapp-monitoring">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrasanaKumarA&repo=grafana-prometheus-whatsapp-monitoring&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
-</a>
-&nbsp;
-<a href="https://github.com/PrasanaKumarA/Idlibook">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrasanaKumarA&repo=Idlibook&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,js,php,html,css,postgres,bash,docker,kubernetes,aws,nginx,linux,ubuntu,git,github,cypress&perline=8" alt="My Tech Stack" />
 </a>
 
-<a href="https://github.com/PrasanaKumarA/Idlistack-testing-Cypress-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrasanaKumarA&repo=Idlistack-testing-Cypress-&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
-</a>
-&nbsp;
-<a href="https://github.com/PrasanaKumarA/Idlibook-v.0.0.1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrasanaKumarA&repo=Idlibook-v.0.0.1&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
-</a>
+<br/><br/>
+
+### ⚙️ Gear Categorized
+
+| Category | Equipments / Tech |
+| :--- | :--- |
+| 🐍 **Programming** | `Python` `JavaScript` `PHP` `HTML5` `CSS3` `SQL` `Bash` |
+| 🐳 **DevOps & Cloud** | `Docker` `Kubernetes (K3s)` `Helm` `Nginx` `AWS S3` `GitHub Actions` |
+| 📊 **Monitoring** | `Prometheus` `Grafana` `Node Exporter` `Alertmanager` |
+| ⚡ **Frameworks** | `Frappe Framework` `ERPNext` `Node.js` |
+| 🧪 **Testing & QA** | `Cypress` `BrowserStack` |
+| 🐧 **System OS** | `Linux` `Ubuntu` `Git` |
 
 </div>
 
 ---
 
-## 💼 &nbsp;Experience
+## 🗡️ &nbsp;ACTIVE QUEST LOG (FEATURED PROJECTS)
+
+<div align="center">
 
 <table>
   <tr>
-    <td width="80" align="center">
-      <img src="https://img.shields.io/badge/🏢-Tech4Good-1f6feb?style=for-the-badge" alt="Tech4Good"/>
+    <td width="50%" valign="top">
+      <h3 align="center">⚔️ Quest 1: Monitoring System</h3>
+      <p align="center">
+        <a href="https://github.com/PrasanaKumarA/grafana-prometheus-whatsapp-monitoring">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrasanaKumarA&repo=grafana-prometheus-whatsapp-monitoring&theme=cyberpunk&show_owner=true" width="100%" />
+        </a>
+      </p>
+      <p><b>Objective:</b> Infrastructure monitoring system using Prometheus, Grafana, Node Exporter, Docker, and WhatsApp alerts for automated CPU & RAM alerts.</p>
     </td>
-    <td>
-      <strong>Tech4Good Fellow</strong> @ Tech4Good Community × Azim Premji Foundation<br/>
-      <sub>📅 August 2025 – Present</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/▸_Software_Development-0d1117?style=flat-square&labelColor=0d1117"/>
-      <img src="https://img.shields.io/badge/▸_DevOps_&_Infrastructure-0d1117?style=flat-square&labelColor=0d1117"/>
-      <img src="https://img.shields.io/badge/▸_Kubernetes_&_Docker-0d1117?style=flat-square&labelColor=0d1117"/>
-      <img src="https://img.shields.io/badge/▸_Monitoring_&_Observability-0d1117?style=flat-square&labelColor=0d1117"/>
-      <img src="https://img.shields.io/badge/▸_Software_Testing-0d1117?style=flat-square&labelColor=0d1117"/>
-      <img src="https://img.shields.io/badge/▸_Frappe_Framework-0d1117?style=flat-square&labelColor=0d1117"/>
-      <img src="https://img.shields.io/badge/▸_Open_Source_Technologies-0d1117?style=flat-square&labelColor=0d1117"/>
-      <img src="https://img.shields.io/badge/▸_CI/CD_&_Automation-0d1117?style=flat-square&labelColor=0d1117"/>
+    <td width="50%" valign="top">
+      <h3 align="center">📜 Quest 2: Enterprise ERP</h3>
+      <p align="center">
+        <a href="https://github.com/PrasanaKumarA/Idlibook">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrasanaKumarA&repo=Idlibook&theme=cyberpunk&show_owner=true" width="100%" />
+        </a>
+      </p>
+      <p><b>Objective:</b> Replication of Zoho Books financial application built with Python & custom workflows.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🧪 Quest 3: Cypress E2E Suite</h3>
+      <p align="center">
+        <a href="https://github.com/PrasanaKumarA/Idlistack-testing-Cypress-">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrasanaKumarA&repo=Idlistack-testing-Cypress-&theme=cyberpunk&show_owner=true" width="100%" />
+        </a>
+      </p>
+      <p><b>Objective:</b> E2E automated test suite using Cypress for web stack verification and quality assurance.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">💰 Quest 4: Finance System</h3>
+      <p align="center">
+        <a href="https://github.com/PrasanaKumarA/finance-system">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrasanaKumarA&repo=finance-system&theme=cyberpunk&show_owner=true" width="100%" />
+        </a>
+      </p>
+      <p><b>Objective:</b> Personal financial management and ledger system crafted with PHP.</p>
     </td>
   </tr>
 </table>
 
----
-
-## 🔥 &nbsp;What I'm Currently Working On
-
-```
-🐳 Container orchestration with Docker & Kubernetes
-📊 Production monitoring with Prometheus & Grafana
-🔔 Real-time WhatsApp alert integrations
-⚡ Frappe/ERPNext ecosystem development
-🧪 E2E testing with Cypress
-☁️ Cloud infrastructure on AWS
-🔄 CI/CD pipeline automation
-🐧 Linux system administration
-```
+</div>
 
 ---
 
-## 🤝 &nbsp;Let's Connect
+## 👾 &nbsp;PLAYER ANALYTICS & HIGH SCORES
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-PrasanaKumarA-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrasanaKumarA)
+  <img src="https://github-readme-stats.vercel.app/api?username=PrasanaKumarA&show_icons=true&theme=cyberpunk&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasanaKumarA&layout=compact&theme=cyberpunk&hide_border=true&langs_count=8" height="170" alt="Top Languages"/>
 
-<br/>
+  <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" width="512"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrasanaKumarA&theme=cyberpunk&hide_border=true" width="700" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
+## 🏆 &nbsp;GUILD EXPERIENCE & JOURNEY
+
+```
+ 🏢 Tech4Good Community × Azim Premji Foundation
+ ┗━━ 🛡️ Tech4Good Fellow (August 2025 – Present)
+      ┣━━ 🐳 DevOps & Infrastructure Management
+      ┣━━ ☸️ Kubernetes Cluster Deployment & Monitoring
+      ┣━━ 📊 Observability (Prometheus, Grafana, WhatsApp Alerts)
+      ┣━━ ⚡ Frappe Framework Development
+      ┗━━ 🧪 Automated Software Testing & Open Source Solutions
+```
+
+---
+
+## 📡 &nbsp;ESTABLISH MULTIPLAYER CONNECTION
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" width="100%"/>
+[![GitHub](https://img.shields.io/badge/GitHub-PrasanaKumarA-090d16?style=for-the-badge&logo=github&logoColor=00f0ff)](https://github.com/PrasanaKumarA)
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=cyberpunk" alt="Dev Quote" width="550"/>
+
+<br/><br/>
+
+<!-- FOOTER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:090d16,50:ff007f,100:00f0ff&height=80&section=footer" width="100%"/>
 
 </div>
