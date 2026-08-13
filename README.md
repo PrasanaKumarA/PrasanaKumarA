@@ -1,62 +1,98 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:ed1d24,55:9b0000,80:f7a400,100:0d1117&height=260&section=header&text=PRASANA%20KUMAR%20A&fontSize=48&fontColor=ffffff&fontAlignY=32&animation=twinkling&desc=DEVOPS%20%26%20SOFTWARE%20ENGINEER%20%7C%20TECH4GOOD%20FELLOW&descSize=17&descColor=f7a400&descAlignY=52" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ██  SUPER MARIO WORLD — HEADER BANNER                      ██ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!-- ANIMATED TYPING TAGLINE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5c94fc,25:e52521,50:fbd000,75:049cd8,100:5c94fc&height=230&section=header&text=PRASANA%20KUMAR%20A&fontSize=46&fontColor=ffffff&fontAlignY=32&animation=twinkling&desc=WORLD%201-1%20%7C%20DEVOPS%20%26%20SOFTWARE%20ENGINEER&descSize=17&descColor=fbd000&descAlignY=54" width="100%"/>
+
+<br/>
+
+<!-- MARIO PIXEL SPRITES ROW -->
+<p>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Mushroom.png" width="42"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="42"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="42"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="42"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="42"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="42"/>
+</p>
+
+<!-- MARIO TYPING ANIMATION -->
 <a href="https://github.com/PrasanaKumarA">
-  <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=700&size=20&duration=2500&pause=900&color=ED1D24&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=100&lines=%E2%9A%A1+ORIGIN%3A+TECH4GOOD+FELLOW+%40+AZIM+PREMJI+FOUNDATION;%F0%9F%9B%A1%EF%B8%8F+POWERS%3A+DOCKER+%7C+KUBERNETES+%7C+PROMETHEUS+%7C+AWS;%F0%9F%9A%80+MISSIONS%3A+AUTOMATING+INFRASTRUCTURE+%26+BUILDING+SOLUTIONS" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2800&pause=800&color=FBD000&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=120&lines=%F0%9F%8D%84+WELCOME+TO+WORLD+1-1+--+PRESS+START;%F0%9F%8E%AE+PLAYER%3A+DEVOPS+%26+SOFTWARE+ENGINEER;%E2%AD%90+QUEST%3A+BUILD+%7C+AUTOMATE+%7C+MONITOR+%7C+DEPLOY;%F0%9F%8F%86+POWERED+BY+TECH4GOOD+%40+AZIM+PREMJI+FOUNDATION" alt="Mario Typing"/>
 </a>
 
 <br/>
 
-<!-- STATUS BADGES ROW -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PrasanaKumarA&style=for-the-badge&color=ed1d24&label=PROFILE+VIEWS&labelColor=0d1117"/>
-  <img src="https://img.shields.io/github/followers/PrasanaKumarA?label=S.H.I.E.L.D.+ALLIES&style=for-the-badge&logo=github&logoColor=ffffff&color=ed1d24&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/STATUS-ASSEMBLING-f7a400?style=for-the-badge&labelColor=0d1117"/>
+<!-- STATUS HUD BADGES -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=PrasanaKumarA&style=for-the-badge&color=e52521&label=WORLD+VISITORS&labelColor=1a1a2e"/>
+  &nbsp;
+  <a href="https://github.com/PrasanaKumarA?tab=followers">
+    <img src="https://img.shields.io/github/followers/PrasanaKumarA?label=PLAYER+2+ALLIES&style=for-the-badge&logo=github&logoColor=ffffff&color=049cd8&labelColor=1a1a2e"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/PrasanaKumarA?tab=stars">
+    <img src="https://img.shields.io/github/stars/PrasanaKumarA?label=STAR+COINS&style=for-the-badge&logo=star&logoColor=fbd000&color=fbd000&labelColor=1a1a2e"/>
+  </a>
 </p>
-
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
 
 </div>
 
-## 🦸‍♂️ &nbsp;ORIGIN STORY
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ██  PIPE DIVIDER                                            ██ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="5px"/>
+
+## 🍄 &nbsp;PLAYER SELECT — WHO AM I
 
 <table width="100%">
 <tr>
-<td width="65%" valign="top">
+<td width="62%" valign="top">
 
-Greetings, Agent! I'm **Prasana Kumar A**, a **DevOps & Software Engineer** currently serving as a **Tech4Good Fellow** with the **Azim Premji Foundation**.
+### 👋 Hi, I'm Prasana Kumar A
 
-My origin story centers on building real-world software, containerized infrastructure, automated CI/CD pipelines, and observability systems that power open-source solutions for social impact.
+I'm a **DevOps & Software Engineer** serving as a **Tech4Good Fellow** with the **Azim Premji Foundation**. I build real-world systems — from production monitoring pipelines to containerized infrastructure — using open-source tools for social impact.
 
-- 📍 **Spawn Point:** India 🇮🇳
-- 🛡️ **Current Identity:** Tech4Good Fellow @ Azim Premji Foundation *(Aug 2025 – Present)*
-- ⚡ **Core Focus:** Docker · Kubernetes (K3s) · Prometheus · Grafana · Frappe · Cypress · Cloud Infra
-- 🎯 **Mission Statement:** *"Build technology that solves real-world problems and automates repetitive work."*
+- 🌍 **Location:** India 🇮🇳
+- 🍄 **Current Role:** Tech4Good Fellow @ Azim Premji Foundation *(Aug 2025 – Present)*
+- ⭐ **Core Focus:** Docker · Kubernetes · Prometheus · Grafana · Frappe · Cypress
+- 🎯 **Mission:** *"Build technology that solves real-world problems."*
 
 </td>
-<td width="35%" align="center">
+<td width="38%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png" width="100"/>
-
-`HERO STATUS: ONLINE`
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="60"/>
+```
+╔═══════════════════════════════╗
+║     🎮 PLAYER STATUS HUD     ║
+╠═══════════════════════════════╣
+║ 🍄 PLAYER  : Prasana Kumar A ║
+║ ⭐ WORLD   : 1-1 (Active)    ║
+║ ❤️ LIVES   : ❤️ ❤️ ❤️          ║
+║ 🪙 COINS   : 9,999           ║
+║ ⚡ STATUS  : ONLINE          ║
+╚═══════════════════════════════╝
+```
 
 </td>
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="5px"/>
 
-## ⚡ &nbsp;POWERS & ABILITIES
+## ⭐ &nbsp;POWER-UPS — TECH STACK
 
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,js,php,html,css,postgres,bash,docker,kubernetes,aws,nginx,linux,ubuntu,git,github,cypress&perline=8" alt="Skill Icons"/>
+  <img src="https://skillicons.dev/icons?i=python,js,php,html,css,postgres,bash,docker,kubernetes,aws,nginx,linux,ubuntu,git,github,cypress&perline=8" alt="Tech Stack"/>
 </a>
 
 <br/><br/>
@@ -65,8 +101,7 @@ My origin story centers on building real-world software, containerized infrastru
 <tr>
 <td width="25%" valign="top">
 
-**🧑‍💻 Languages**
-<br/>
+#### 🍄 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -78,8 +113,7 @@ My origin story centers on building real-world software, containerized infrastru
 </td>
 <td width="25%" valign="top">
 
-**⚡ Frameworks**
-<br/>
+#### ⚡ Frameworks
 ![Frappe](https://img.shields.io/badge/Frappe-0089FF?style=flat-square&logo=frappe&logoColor=white)
 ![ERPNext](https://img.shields.io/badge/ERPNext-5865F2?style=flat-square&logo=erpnext&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -88,8 +122,7 @@ My origin story centers on building real-world software, containerized infrastru
 </td>
 <td width="25%" valign="top">
 
-**🐳 Cloud & DevOps**
-<br/>
+#### 🐳 DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![K3s](https://img.shields.io/badge/K3s-FFC61C?style=flat-square&logo=rancher&logoColor=black)
@@ -100,8 +133,7 @@ My origin story centers on building real-world software, containerized infrastru
 </td>
 <td width="25%" valign="top">
 
-**📊 Tools & Monitoring**
-<br/>
+#### 📊 Monitoring & Tools
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
@@ -113,47 +145,30 @@ My origin story centers on building real-world software, containerized infrastru
 
 </div>
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="5px"/>
 
-## 📊 &nbsp;GITHUB STATS
+## 🏰 &nbsp;WORLD MAP — FEATURED QUESTS
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=PrasanaKumarA&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ed1d24&icon_color=f7a400&text_color=c9d1d9&border_radius=12" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasanaKumarA&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ed1d24&text_color=c9d1d9&border_radius=12" width="49%"/>
-
-<img src="https://streak-stats.demolab.com/?user=PrasanaKumarA&theme=dark&hide_border=true&border=ed1d24&stroke=ed1d24&ring=ed1d24&fire=f7a400&background=0d1117&currStreakLabel=ed1d24" width="100%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrasanaKumarA&bg_color=0d1117&color=f7a400&line=ed1d24&point=ffffff&area=true&area_color=ed1d24&hide_border=true&custom_title=MISSION%20ACTIVITY%20LOG" width="100%"/>
-
-</div>
-
-> 💡 **Optional next-level touch:** add a live contribution "snake" animation (a green/red snake eating your commit graph) via the `platane/snk` GitHub Action — it's a genuinely animated (moving) graphic, not just a static SVG. I can write that workflow file for you if you want it.
-
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
-
-## 🚀 &nbsp;MISSIONS
-
+<!-- QUEST 1: BOSS LEVEL -->
 <table width="100%">
 <tr>
-<td colspan="2" align="center">
+<td colspan="2">
 
-### ⚡ FEATURED MISSION: Grafana + Prometheus + WhatsApp Monitoring
-`grafana-prometheus-whatsapp-monitoring`
+### ⭐ WORLD 1-4 BOSS: Grafana + Prometheus + WhatsApp Monitoring
 
 </td>
 </tr>
 <tr>
-<td width="70%" valign="top">
+<td width="68%" valign="top">
 
-Production infrastructure monitoring pipeline that tracks Linux server CPU and RAM metrics in real-time, triggering automated WhatsApp incident alerts via Node.js webhooks when thresholds are breached.
+Production infrastructure monitoring system tracking Linux server CPU & RAM in real-time, with automated WhatsApp incident alerts via Node.js webhooks when thresholds are breached.
 
-**Stack:** `Prometheus` `Grafana` `Node Exporter` `Docker` `WhatsApp API`
+**Power-Ups Used:** `Prometheus` · `Grafana` · `Node Exporter` · `Docker` · `WhatsApp API` · `Node.js`
 
 </td>
-<td width="30%" align="center">
+<td width="32%" align="center" valign="middle">
 
-[![View Repo](https://img.shields.io/badge/VIEW_REPO-ed1d24?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrasanaKumarA/grafana-prometheus-whatsapp-monitoring)
+[![Launch Quest](https://img.shields.io/badge/🏰_LAUNCH_QUEST-e52521?style=for-the-badge&logoColor=white)](https://github.com/PrasanaKumarA/grafana-prometheus-whatsapp-monitoring)
 
 </td>
 </tr>
@@ -161,93 +176,164 @@ Production infrastructure monitoring pipeline that tracks Linux server CPU and R
 
 <br/>
 
+<!-- QUESTS GRID -->
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-#### ☸️ K3s etcd Backup & Restore
-Automated snapshot backup and disaster-recovery restoration for K3s etcd cluster state, backed up to AWS S3.
+#### 🍄 World 2-1: WhatoMate
+WhatsApp Business Platform automation engine with Node.js webhooks, Docker containerization, PostgreSQL & Redis backend.
 
-[📜 View Repository](https://github.com/PrasanaKumarA)
+`Node.js` · `Docker` · `PostgreSQL` · `Redis` · `WhatsApp API`
 
-`Kubernetes` `K3s` `etcd` `AWS S3`
+[![View](https://img.shields.io/badge/ENTER_PIPE-049cd8?style=flat-square&logoColor=white)](https://github.com/PrasanaKumarA/WhatoMate)
 
 </td>
 <td width="50%" valign="top">
 
-#### 🐳 Private Docker Registry
-Self-hosted secure private Docker image registry with custom authentication and Docker Compose orchestration.
+#### 🔥 World 2-2: IdliStack Cypress Testing
+Automated end-to-end integration test suite for web application UI validation, bug detection, and test case tracking.
 
-[📜 View Repository](https://github.com/PrasanaKumarA)
+`Cypress` · `JavaScript` · `E2E Testing` · `Automation`
 
-`Docker Registry` `Docker Compose` `Linux`
+[![View](https://img.shields.io/badge/ENTER_PIPE-049cd8?style=flat-square&logoColor=white)](https://github.com/PrasanaKumarA/Idlistack-testing-Cypress-)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### 💬 Whatomate
-WhatsApp Business API automation engine built with Node.js, Docker, PostgreSQL, and Redis for high-concurrency webhooks.
+#### ⭐ World 3-1: Idlibook v0.0.1
+Enterprise financial accounting application replicating Zoho Books functionality, built for business transaction management.
 
-[📜 View Repository](https://github.com/PrasanaKumarA)
+`Python` · `ERPNext` · `SQL` · `Frappe Framework`
 
-`Node.js` `PostgreSQL` `Redis` `Docker`
+[![View](https://img.shields.io/badge/ENTER_PIPE-049cd8?style=flat-square&logoColor=white)](https://github.com/PrasanaKumarA/Idlibook-v.0.0.1)
 
 </td>
 <td width="50%" valign="top">
 
-#### 🧪 IdliStack Cypress Testing
-Automated E2E integration test suite for web application UI testing, bug detection, and test case tracking.
+#### 🏰 World 3-2: Arockia Electricals
+Business web application for inventory tracking, billing management, and electrical enterprise operations.
 
-[📜 View Repository](https://github.com/PrasanaKumarA/Idlistack-testing-Cypress-)
+`PHP` · `HTML/CSS` · `JavaScript` · `Web Application`
 
-`Cypress` `E2E Testing` `JavaScript`
+[![View](https://img.shields.io/badge/ENTER_PIPE-049cd8?style=flat-square&logoColor=white)](https://github.com/PrasanaKumarA/Arockia-Electricals)
 
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
-#### ⚡ Arockia Electricals
-Web application for business inventory tracking, billing management, and electrical enterprise operations.
+#### 🪙 World 4-1: Finance System
+Personal financial ledger and tracking application for managing transactions and budgets.
 
-[📜 View Repository](https://github.com/PrasanaKumarA/Finance-system)
+`PHP` · `HTML/CSS` · `SQL`
 
-`PHP` `HTML/CSS` `SQL`
+[![View](https://img.shields.io/badge/ENTER_PIPE-049cd8?style=flat-square&logoColor=white)](https://github.com/PrasanaKumarA/finance-system)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🌐 World 4-2: Web IdliStack
+Full-stack web application for the IdliStack platform built with HTML, CSS, and modern web technologies.
+
+`HTML` · `CSS` · `JavaScript` · `Web Development`
+
+[![View](https://img.shields.io/badge/ENTER_PIPE-049cd8?style=flat-square&logoColor=white)](https://github.com/PrasanaKumarA/web_idlistack)
 
 </td>
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="5px"/>
 
-## 🏆 &nbsp;ACHIEVEMENTS
+## 📊 &nbsp;GAME STATS — GITHUB ANALYTICS
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=PrasanaKumarA&theme=onedark&column=6&margin-w=12&margin-h=12&no-bg=true&no-frame=false" width="100%"/>
+<img src="https://streak-stats.demolab.com/?user=PrasanaKumarA&theme=dark&hide_border=true&ring=e52521&fire=fbd000&currStreakLabel=fbd000&sideLabels=049cd8&background=1a1a2e" width="100%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrasanaKumarA&bg_color=1a1a2e&color=fbd000&line=e52521&point=049cd8&area=true&area_color=e52521&hide_border=true&custom_title=WORLD+ACTIVITY+MAP" width="100%"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="5px"/>
 
-## 🤝 &nbsp;ASSEMBLE
+## 🏆 &nbsp;TROPHY ROOM
 
 <div align="center">
 
-Ready to collaborate on open-source DevOps and Tech4Good projects? Connect below!
-
-[![GitHub](https://img.shields.io/badge/GitHub-PrasanaKumarA-ed1d24?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrasanaKumarA)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/PrasanaKumarA)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasana.kumar.a@example.com)
+<img src="https://github-profile-trophy.vercel.app/?username=PrasanaKumarA&theme=discord&column=6&margin-w=12&margin-h=12&no-bg=true" width="100%"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:ed1d24,55:9b0000,80:f7a400,100:0d1117&height=130&section=footer"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="5px"/>
+
+## 🗺️ &nbsp;CURRENT WORLD — TRAINING ARC
 
 <div align="center">
 
-`⚡ "WITH GREAT CODE COMES GREAT RESPONSIBILITY." ⚡`
+```
+ ☸️  Kubernetes & K3s Clusters
+        ↓
+ 🐳  Docker & Container Architecture
+        ↓
+ ☁️  AWS Cloud Infrastructure
+        ↓
+ 🔄  CI/CD & GitHub Actions Pipelines
+        ↓
+ 📊  Prometheus & Grafana Observability
+        ↓
+ 🔧  Infrastructure Automation & Bash
+        ↓
+ 🚀  Open Source & Tech4Good Impact
+```
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="5px"/>
+
+## 💼 &nbsp;EXPERIENCE LOG
+
+### 🏛️ Tech4Good Community × Azim Premji Foundation
+**Tech4Good Fellow** · *August 2025 – Present*
+
+Working on real-world engineering and DevOps projects:
+- **Software Development:** Building enterprise solutions with Python, JavaScript, PHP, and Frappe Framework.
+- **DevOps & Infrastructure:** Provisioning Docker containers, Kubernetes clusters, and web servers.
+- **Monitoring & Reliability:** Designing Prometheus + Grafana + WhatsApp incident alerting pipelines.
+- **Quality Assurance:** Implementing Cypress E2E automated test suites for production confidence.
+- **Deployment & Automation:** Streamlining workflows with Git, Linux administration, and cloud services.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="5px"/>
+
+## 🤝 &nbsp;PLAYER 2 — CONNECT WITH ME
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-PrasanaKumarA-e52521?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrasanaKumarA)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-049cd8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/PrasanaKumarA)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-Contact_Me-fbd000?style=for-the-badge&logo=gmail&logoColor=black)](mailto:prasana.kumar.a@example.com)
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ██  FOOTER                                                  ██ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5c94fc,25:e52521,50:fbd000,75:049cd8,100:5c94fc&height=120&section=footer" width="100%"/>
+
+<br/>
+
+`🍄 "IT'S-A ME, PRASANA! LET'S-A BUILD SOMETHING GREAT TOGETHER." 🍄`
 
 </div>
