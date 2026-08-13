@@ -1,157 +1,150 @@
 <div align="center">
 
-<!-- SUPER MARIO & MINECRAFT GAMING HEADER BANNER (XML ERROR FREE) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e52521,35:fbd000,70:009900,100:00e5ff&height=200&section=header&text=SUPER%20PRASANA%20BROS&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=WORLD%201-1%20%7C%20LEVEL%2024%20DEVOPS%20AND%20FULL-STACK%20MASTER&descSize=16&descColor=ffffff&descAlignY=60" width="100%"/>
+<!-- MARVEL CINEMATIC UNIVERSE HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e62429,40:9b0000,75:f7a400,100:111827&height=220&section=header&text=MARVEL%20CINEMATIC%20UNIVERSE&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=PRASANA%20KUMAR%20A%20%7C%20AVENGERS%20INITIATIVE%20DEVOPS%20HERO&descSize=16&descColor=f7a400&descAlignY=60" width="100%"/>
 
 <br/>
 
-<!-- 3D ANIMATED GAME SPRITES (GUARANTEED HIGH-RES GITHUB CDN) -->
+<!-- 3D ANIMATED MARVEL HERO ARTIFACTS -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Mushroom.png" width="55" alt="Super Mushroom"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png" width="55" alt="Arc Reactor Power"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Games/Video%20Game.png" width="55" alt="Video Game"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="55" alt="Vibranium Shield"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="55" alt="Minecraft Diamond"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer.png" width="55" alt="Mjolnir Hammer"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width="55" alt="Arcade Alien"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="55" alt="Infinity Stones"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Collision.png" width="55" alt="Cosmic Power"/>
 </p>
 
-<!-- GAMING TYPING ANIMATION -->
+<!-- MARVEL HERO TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2500&pause=1000&color=FBD000&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=140&lines=WELCOME+TO+WORLD+1-1%3A+PRASANA+KUMAR+A;PLAYER+CLASS%3A+DEVOPS+AND+SOFTWARE+ENGINEER;ARMOR%3A+DOCKER+%7C+KUBERNETES+%7C+PROMETHEUS;QUEST%3A+BUILDING+TECH4GOOD+SOLUTIONS" alt="Super Mario Gaming Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2500&pause=1000&color=E62429&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=140&lines=%E2%9A%A1+%22I+AM+IRON+MAN+OF+DEVOPS+INFRASTRUCTURE%22;%F0%9F%9B%A1%EF%B8%8F+%22I+CAN+DO+THIS+ALL+DAY+--+AUTOMATING+THE+CLOUD%22;%F0%9F%94%A8+%22WORTHY+OF+DOCKER%2C+KUBERNETES+%26+PROMETHEUS%22;%F0%9F%92%A5+%22AVENGERS+ASSEMBLE+FOR+TECH4GOOD+SOLUTIONS%22" alt="Marvel Hero Typing" />
 </a>
 
 <br/><br/>
 
-<!-- PLAYER BADGES -->
-[![Player Followers](https://img.shields.io/github/followers/PrasanaKumarA?label=PLAYER%20FOLLOWERS&style=for-the-badge&logo=nintendo-switch&logoColor=ffffff&color=e52521&labelColor=111111)](https://github.com/PrasanaKumarA?tab=followers)
-[![Total Stars](https://img.shields.io/github/stars/PrasanaKumarA?label=COINS%20AND%20STARS&style=for-the-badge&logo=star&logoColor=fbd000&color=009900&labelColor=111111)](https://github.com/PrasanaKumarA?tab=stars)
-![Profile Views](https://komarev.com/ghpvc/?username=PrasanaKumarA&style=for-the-badge&color=00e5ff&label=WORLD+XP)
+<!-- S.H.I.E.L.D. HERO BADGES -->
+[![S.H.I.E.L.D. Allies](https://img.shields.io/github/followers/PrasanaKumarA?label=S.H.I.E.L.D.%20ALLIES&style=for-the-badge&logo=marvel&logoColor=ffffff&color=e62429&labelColor=111827)](https://github.com/PrasanaKumarA?tab=followers)
+[![Infinity Stars](https://img.shields.io/github/stars/PrasanaKumarA?label=INFINITY%20STARS&style=for-the-badge&logo=star&logoColor=f7a400&color=9b0000&labelColor=111827)](https://github.com/PrasanaKumarA?tab=stars)
+![Hero XP](https://komarev.com/ghpvc/?username=PrasanaKumarA&style=for-the-badge&color=f7a400&label=HERO+XP+VIEWS)
 
 </div>
 
 ---
 
-## 🎮 &nbsp;WORLD 1-1: PLAYER INVENTORY & CHARACTER SHEET
+## 🦸‍♂️ &nbsp;S.H.I.E.L.D. AGENT DOSSIER & HERO STATS
 
-```gcode
+```yaml
 ===================================================================
-🎮  PLAYER NAME   : Prasana Kumar A
-🍄  WORLD STATUS  : World 1-1 (Tech4Good Fellow @ Azim Premji Foundation)
-👑  PLAYER RANK   : Level 24 DevOps & Full-Stack Adventurer
-📍  SPAWN POINT   : India 🇮🇳
+🦸‍♂️ AGENT NAME    : Prasana Kumar A
+🏛️ ORGANIZATION  : Tech4Good Community × Azim Premji Foundation
+🛡️ CLEARANCE     : Level 10 (DevOps & Infrastructure Architect)
+📍 HEADQUARTERS  : India 🇮🇳
 ===================================================================
 
-[ 🛡️ MINECRAFT & MARIO POWER-UP STATS ]
-LIVES    : ❤️ ❤️ ❤️ (3/3 Extra Lives Active)
-HEALTH   : ████████████████████ 100% [Fueled by Linux & Code ☕]
-MANA     : ██████████████████░░  90% [Automating Infrastructure ⚡]
-COINS    : 🪙 9,999 Gold Coins
-DIAMONDS : 💎 64x Stack Netherite Grade
+[ ⚡ HERO POWER METRICS ]
+ARC REACTOR POWER : ████████████████████ 100% [Linux Kernel & Cloud ☕]
+VIBRANIUM DEFENSE : ██████████████████░░  95% [Docker & Kubernetes ☸️]
+STORM BREAKER     : ██████████████████░░  90% [Prometheus & Grafana 📊]
+COSMIC ENERGY     : ████████████████████ 100% [Open Source Tech4Good 🚀]
 
-[ ⚔️ SPECIAL ABILITIES ]
-✦ 🐳 Docker & Kubernetes Container Orchestration
-✦ 📊 Prometheus & Grafana Real-Time Alerting Pipelines
-✦ ⚡ Frappe Framework & ERPNext Customization
-✦ 🧪 Cypress Automated Integration Testing
-✦ ☁️ AWS Cloud & Linux Systems Administration
+[ 💎 INFINITY STONES IN POSSESSION ]
+✦ Space Stone   : Kubernetes Cluster Orchestration & K3s
+✦ Power Stone   : Prometheus & Grafana Real-Time Alerting Pipelines
+✦ Mind Stone    : Frappe Framework & ERPNext Customization
+✦ Time Stone    : Automated E2E Cypress Testing Framework
+✦ Reality Stone : AWS Cloud Infrastructure & Linux Admin
 ===================================================================
 ```
 
 ---
 
-## 🧱 &nbsp;MINECRAFT INVENTORY (TECH STACK)
+## 🛡️ &nbsp;AVENGERS ARMORY & TECH STACK
 
 <div align="center">
 
-### 💎 Mastered Skill Blocks
+### 💎 Infinity Stone Skill Grid
 <br/>
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,js,php,html,css,postgres,bash,docker,kubernetes,aws,nginx,linux,ubuntu,git,github,cypress&perline=8" alt="Minecraft Tech Inventory" />
+  <img src="https://skillicons.dev/icons?i=python,js,php,html,css,postgres,bash,docker,kubernetes,aws,nginx,linux,ubuntu,git,github,cypress&perline=8" alt="Marvel Tech Arsenal" />
 </a>
 
 <br/><br/>
 
-### 🍄 Power-Ups & Equipment
+### ⚙️ Hero Equipment Classification
 
-| Power-Up | Type | Equipment / Technologies |
+| Hero Artifact | Category | Technologies / Superpowers |
 | :---: | :--- | :--- |
-| 🍄 | **Core Magic (Languages)** | `Python` `JavaScript` `PHP` `HTML5` `CSS3` `SQL` `Bash` |
-| ⭐ | **Super Star (DevOps & Infrastructure)** | `Docker` `Kubernetes (K3s)` `Helm` `Nginx` `AWS S3` `GitHub Actions` |
-| 🔥 | **Fire Flower (Monitoring & Alerts)** | `Prometheus` `Grafana` `Node Exporter` `WhatsApp Webhooks` |
-| 🛡️ | **Armor & Frameworks** | `Frappe Framework` `ERPNext` `Node.js` `Linux Ubuntu` |
-| 🧪 | **Testing & QA** | `Cypress Automated Testing` `BrowserStack` |
+| ⚡ **Arc Reactor** | Core Languages | `Python` `JavaScript` `PHP` `HTML5` `CSS3` `SQL` `Bash` |
+| 🛡️ **Vibranium Shield** | DevOps & Cloud | `Docker` `Kubernetes (K3s)` `Helm` `Nginx` `AWS S3` `GitHub Actions` |
+| 📊 **JARVIS Protocol** | Monitoring & Alerts | `Prometheus` `Grafana` `Node Exporter` `WhatsApp Webhooks` |
+| 🔨 **Stormbreaker** | Frameworks | `Frappe Framework` `ERPNext` `Node.js` `Linux System OS` |
+| 🧪 **Quantum Realm** | Testing & QA | `Cypress Automated Testing` `BrowserStack` |
 
 </div>
 
 ---
 
-## 🏰 &nbsp;WORLD 1-2: QUEST LOG (FEATURED PROJECTS)
+## 🚀 &nbsp;AVENGERS MISSIONS (FEATURED PROJECTS)
 
 <div align="center">
 
-| Quest | Project Name | Description | Stack / Power-Up | Link |
+| Mission | Project Name | Description | Power Stack | Link |
 | :---: | :--- | :--- | :--- | :---: |
-| ⚔️ **Quest 1** | **Grafana Prometheus WhatsApp Monitoring** | Real-time infrastructure monitoring pipeline with automated CPU & RAM WhatsApp alerts. | `Docker` `Prometheus` `Grafana` `Node.js` | [📜 View Project](https://github.com/PrasanaKumarA/grafana-prometheus-whatsapp-monitoring) |
-| 📚 **Quest 2** | **Idlibook (Zoho Books Replication)** | Enterprise financial accounting app designed for business transaction management. | `Python` `ERPNext` `SQL` | [📜 View Project](https://github.com/PrasanaKumarA/Idlibook) |
-| 🧪 **Quest 3** | **Idlistack Cypress Testing** | Automated end-to-end integration & web application testing framework. | `JavaScript` `Cypress` `QA` | [📜 View Project](https://github.com/PrasanaKumarA/Idlistack-testing-Cypress-) |
-| 💰 **Quest 4** | **Finance Management System** | Custom personal financial ledger and tracking application. | `PHP` `HTML/CSS` `SQL` | [📜 View Project](https://github.com/PrasanaKumarA/Finance-system) |
+| ⚡ **Mission 1** | **Grafana Prometheus WhatsApp Monitoring** | JARVIS automated infrastructure monitoring pipeline with real-time WhatsApp CPU & RAM alerts. | `Docker` `Prometheus` `Grafana` `Node.js` | [📜 Mission File](https://github.com/PrasanaKumarA/grafana-prometheus-whatsapp-monitoring) |
+| 📚 **Mission 2** | **Idlibook (Zoho Books Replication)** | Enterprise financial ledger system built for high-scale accounting operations. | `Python` `ERPNext` `SQL` | [📜 Mission File](https://github.com/PrasanaKumarA/Idlibook) |
+| 🧪 **Mission 3** | **Idlistack Cypress Testing** | Quantum-level E2E automated testing framework for web stack validation. | `JavaScript` `Cypress` `QA` | [📜 Mission File](https://github.com/PrasanaKumarA/Idlistack-testing-Cypress-) |
+| 💰 **Mission 4** | **Finance Management System** | Personal financial tracking system built with lightweight architecture. | `PHP` `HTML/CSS` `SQL` | [📜 Mission File](https://github.com/PrasanaKumarA/Finance-system) |
 
 </div>
 
 ---
 
-## 🏆 &nbsp;WORLD 1-3: TROPHIES & ACHIEVEMENTS
+## 🏆 &nbsp;S.H.I.E.L.D. HERO ACHIEVEMENTS & METRICS
 
 <div align="center">
 
-### 👑 Player Trophies Unlocked
+### 👑 Hero Trophies Unlocked
 <br/>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=PrasanaKumarA&theme=flat&column=6&margin-w=15" alt="GitHub Profile Trophies" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=PrasanaKumarA&theme=onedark&column=6&margin-w=15" alt="GitHub Profile Trophies" width="100%"/>
 </a>
 
 <br/><br/>
 
-### 📊 Player Statistics
+### 📊 Mission Activity & Streak
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PrasanaKumarA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PrasanaKumarA&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages"/>
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=PrasanaKumarA&theme=tokyonight&hide_border=true" width="700" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=PrasanaKumarA&theme=tokyonight&hide_border=true" width="750" alt="GitHub Streak"/>
 </p>
 
 </div>
 
 ---
 
-## 🌟 &nbsp;WORLD 1-4: EXPERIENCE & ADVENTURES
+## 🌟 &nbsp;S.H.I.E.L.D. CHRONICLES & SERVICE RECORD
 
 ```
  🏢 TECH4GOOD COMMUNITY × AZIM PREMJI FOUNDATION
- ┗━━ 🍄 Tech4Good Fellow (August 2025 – Present)
-      ┣━━ 🐳 Building & Orchestrating Docker Containers & Kubernetes Clusters
-      ┣━━ 📊 Deploying Prometheus Observability & WhatsApp Incident Alert Webhooks
+ ┗━━ ⚡ Tech4Good Fellow (August 2025 – Present)
+      ┣━━ 🐳 Architecting & Managing Docker & Kubernetes Microservices
+      ┣━━ 📊 Engineering JARVIS Observability (Prometheus, Grafana, WhatsApp Alerts)
       ┣━━ ⚡ Developing Enterprise Solutions on Frappe Framework & ERPNext
-      ┣━━ 🧪 Writing E2E Automated Integration Tests with Cypress
-      ┗━━ 🐧 Administering Linux Infrastructure & CI/CD Pipelines
+      ┣━━ 🧪 Writing E2E Automated Integration Test Suites with Cypress
+      ┗━━ 🐧 Managing Cloud Infrastructure on AWS & Linux Systems
 ```
 
 ---
 
-## 🎮 &nbsp;GAME OVER? NO, LET'S CONNECT!
+## 📡 &nbsp;INITIATE COMMUNICATION PROTOCOL
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-PrasanaKumarA-e52521?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/PrasanaKumarA)
+[![GitHub](https://img.shields.io/badge/GitHub-PrasanaKumarA-e62429?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/PrasanaKumarA)
 
 <br/>
 
@@ -160,6 +153,6 @@ DIAMONDS : 💎 64x Stack Netherite Grade
 <br/><br/>
 
 <!-- FOOTER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e52521,35:fbd000,70:009900,100:00e5ff&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e62429,40:9b0000,75:f7a400,100:111827&height=100&section=footer" width="100%"/>
 
 </div>
