@@ -1,13 +1,13 @@
 <div align="center">
 
-<!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1e293b,60:2563eb,85:0ea5e9,100:0d1117&height=220&section=header&text=PRASANA%20KUMAR%20A&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=DEVOPS%20AND%20SOFTWARE%20ENGINEER%20%7C%20TECH4GOOD%20FELLOW&descSize=15&descColor=38bdf8&descAlignY=58" width="100%"/>
+<!-- GTA GAME THEME HERO BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,20:ff007f,45:ff5500,70:ffd700,85:00f0ff,100:0d1117&height=235&section=header&text=PRASANA%20KUMAR%20A&fontSize=46&fontColor=ffffff&fontAlignY=33&animation=twinkling&desc=MISSION%3A%20DEVOPS%20AND%20SOFTWARE%20ENGINEER%20%7C%20RESPECT%20%2B100&descSize=16&descColor=ffd700&descAlignY=55" width="100%"/>
 
 <br/>
 
-<!-- SUBTLE TYPING SVG -->
+<!-- GTA GAME TYPING ANIMATION -->
 <a href="https://github.com/PrasanaKumarA">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=16&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+and+automating+real-world+cloud+infrastructure;Monitoring+real-time+observability+pipelines+with+Prometheus+%26+Grafana;Engineering+open-source+Tech4Good+solutions+%40+Azim+Premji+Foundation" alt="Typing Tagline"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=16&duration=2500&pause=900&color=FFD700&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%E2%AD%90+MISSION+PASSED!+--+RESPECT+%2B100;%F0%9F%9A%97+PLAYER%3A+DEVOPS+AND+SOFTWARE+ENGINEER;%F0%9F%94%A7+QUEST%3A+BUILD+%7C+AUTOMATE+%7C+MONITOR+%7C+DEPLOY;%F0%9F%8F%86+POWERED+BY+TECH4GOOD+%40+AZIM+PREMJI+FOUNDATION" alt="GTA Typing Tagline"/>
 </a>
 
 <br/>
@@ -376,12 +376,12 @@ I am open to collaborating on open-source DevOps projects, cloud infrastructure 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1e293b,60:2563eb,85:0ea5e9,100:0d1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,20:ff007f,45:ff5500,70:ffd700,85:00f0ff,100:0d1117&height=120&section=footer" width="100%"/>
 
 <br/>
 
 <p align="center">
-  <code>"Building practical software, automating infrastructure, and driving open-source impact."</code>
+  <code>🚗 "MISSION PASSED! RESPECT +100 // LET'S-A BUILD SOMETHING GREAT TOGETHER."</code>
 </p>
 
 </div>
