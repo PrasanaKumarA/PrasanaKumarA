@@ -1,10 +1,10 @@
-<svg viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <!-- Retro Arcade Sky Gradient -->
     <linearGradient id="retroSky" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#3a86ff"/>
-      <stop offset="60%" stop-color="#4895ef"/>
-      <stop offset="100%" stop-color="#80b918"/>
+      <stop offset="0%" stop-color="#2b59c3"/>
+      <stop offset="55%" stop-color="#4a86e8"/>
+      <stop offset="100%" stop-color="#64b5f6"/>
     </linearGradient>
 
     <!-- Ground Brick Pattern -->
@@ -25,10 +25,10 @@
       <line x1="30" y1="12" x2="30" y2="24" stroke="#000000" stroke-width="2"/>
     </pattern>
 
-    <!-- Question Block Pattern -->
+    <!-- Question Block Gradient -->
     <linearGradient id="qBlockGrad" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#ffea00"/>
-      <stop offset="100%" stop-color="#ffaa00"/>
+      <stop offset="100%" stop-color="#ff9100"/>
     </linearGradient>
 
     <style>
@@ -36,80 +36,86 @@
       
       .title-text {
         font-family: 'Press Start 2P', monospace;
-        font-size: 36px;
+        font-size: 34px;
         fill: #ffffff;
         text-anchor: middle;
+        font-weight: bold;
       }
       
       .subtitle-text {
         font-family: 'Press Start 2P', monospace;
-        font-size: 14px;
+        font-size: 13px;
         fill: #ffea00;
         text-anchor: middle;
+        font-weight: bold;
       }
 
       /* Animated Drifting Clouds */
       .cloud-bg-1 {
-        animation: floatRight 28s linear infinite;
+        animation: floatRight 30s linear infinite;
       }
       .cloud-bg-2 {
-        animation: floatLeft 34s linear infinite;
+        animation: floatLeft 36s linear infinite;
       }
       @keyframes floatRight {
-        0% { transform: translateX(-200px); }
-        100% { transform: translateX(1300px); }
+        0% { transform: translateX(-220px); }
+        100% { transform: translateX(1320px); }
       }
       @keyframes floatLeft {
-        0% { transform: translateX(1300px); }
-        100% { transform: translateX(-200px); }
+        0% { transform: translateX(1320px); }
+        100% { transform: translateX(-220px); }
       }
 
       /* Animated Bouncing Coin */
       .bouncing-coin {
-        animation: coinJump 1.2s ease-in-out infinite alternate;
+        animation: coinJump 1.1s ease-in-out infinite alternate;
       }
       @keyframes coinJump {
         0% { transform: translateY(0px) scaleX(1); }
         50% { transform: translateY(-16px) scaleX(0.2); }
-        100% { transform: translateY(-32px) scaleX(1); }
+        100% { transform: translateY(-30px) scaleX(1); }
       }
 
       /* Pulsing Question Block */
       .q-box {
-        animation: boxPulse 1.5s ease-in-out infinite alternate;
+        animation: boxPulse 1.4s ease-in-out infinite alternate;
       }
       @keyframes boxPulse {
         0% { transform: translateY(0px); }
-        100% { transform: translateY(-3px); }
+        100% { transform: translateY(-4px); }
       }
     </style>
   </defs>
 
   <!-- SKY BACKGROUND -->
-  <rect width="1200" height="230" fill="url(#retroSky)"/>
+  <rect width="1200" height="250" fill="url(#retroSky)"/>
 
   <!-- DRIFTING PIXEL CLOUDS -->
   <g class="cloud-bg-1" fill="#ffffff" opacity="0.9">
-    <ellipse cx="100" cy="50" rx="35" ry="16"/>
-    <ellipse cx="125" cy="45" rx="25" ry="18"/>
-    <ellipse cx="75" cy="48" rx="22" ry="14"/>
+    <ellipse cx="100" cy="45" rx="35" ry="16"/>
+    <ellipse cx="125" cy="40" rx="25" ry="18"/>
+    <ellipse cx="75" cy="43" rx="22" ry="14"/>
   </g>
   <g class="cloud-bg-2" fill="#ffffff" opacity="0.8">
-    <ellipse cx="900" cy="65" rx="45" ry="18"/>
-    <ellipse cx="935" cy="58" rx="30" ry="20"/>
-    <ellipse cx="865" cy="62" rx="28" ry="15"/>
+    <ellipse cx="950" cy="55" rx="45" ry="18"/>
+    <ellipse cx="985" cy="48" rx="30" ry="20"/>
+    <ellipse cx="915" cy="52" rx="28" ry="15"/>
   </g>
 
-  <!-- TITLE & SUBTITLE WITH PIXEL OUTLINE -->
-  <text x="604" y="84" class="title-text" fill="#000000">PRASANA KUMAR A</text>
-  <text x="596" y="76" class="title-text" fill="#000000">PRASANA KUMAR A</text>
-  <text x="600" y="80" class="title-text">PRASANA KUMAR A</text>
+  <!-- HIGH-PERFORMANCE PIXEL TITLE WITH OUTLINE (CLEAN TOP POSITIONING) -->
+  <text x="604" y="59" class="title-text" fill="#000000">PRASANA KUMAR A</text>
+  <text x="596" y="51" class="title-text" fill="#000000">PRASANA KUMAR A</text>
+  <text x="604" y="51" class="title-text" fill="#000000">PRASANA KUMAR A</text>
+  <text x="596" y="59" class="title-text" fill="#000000">PRASANA KUMAR A</text>
+  <text x="600" y="55" class="title-text">PRASANA KUMAR A</text>
 
-  <text x="602" y="112" class="subtitle-text" fill="#000000">LVL 99 · DEVOPS ARCHITECT · TECH4GOOD FELLOW</text>
-  <text x="600" y="110" class="subtitle-text">LVL 99 · DEVOPS ARCHITECT · TECH4GOOD FELLOW</text>
+  <!-- SUBTITLE TEXT -->
+  <text x="602" y="92" class="subtitle-text" fill="#000000">LVL 99 · DEVOPS ARCHITECT · TECH4GOOD FELLOW</text>
+  <text x="598" y="88" class="subtitle-text" fill="#000000">LVL 99 · DEVOPS ARCHITECT · TECH4GOOD FELLOW</text>
+  <text x="600" y="90" class="subtitle-text">LVL 99 · DEVOPS ARCHITECT · TECH4GOOD FELLOW</text>
 
-  <!-- BOUNCING GOLD COIN ABOVE QUESTION BLOCK -->
-  <g transform="translate(600, 118)">
+  <!-- BOUNCING GOLD COIN ABOVE QUESTION BLOCK (POSITIONED BELOW SUBTITLE) -->
+  <g transform="translate(600, 140)">
     <g class="bouncing-coin">
       <ellipse cx="0" cy="0" rx="10" ry="12" fill="#ffea00" stroke="#000000" stroke-width="2"/>
       <ellipse cx="0" cy="0" rx="5" ry="8" fill="#fff59d"/>
@@ -117,45 +123,45 @@
     </g>
   </g>
 
-  <!-- PLATFORMER BLOCKS (CENTERED) -->
+  <!-- PLATFORMER BLOCKS (CENTERED AT Y=165) -->
   <!-- Left Brick -->
-  <rect x="520" y="145" width="42" height="42" fill="#d94e00" stroke="#000000" stroke-width="3" rx="2"/>
-  <rect x="524" y="149" width="16" height="14" fill="#ff7b3d"/>
-  <rect x="542" y="149" width="16" height="14" fill="#ff7b3d"/>
-  <rect x="524" y="167" width="34" height="14" fill="#ff7b3d"/>
+  <rect x="518" y="165" width="44" height="44" fill="#d94e00" stroke="#000000" stroke-width="3" rx="2"/>
+  <rect x="522" y="169" width="17" height="15" fill="#ff7b3d"/>
+  <rect x="541" y="169" width="17" height="15" fill="#ff7b3d"/>
+  <rect x="522" y="188" width="36" height="15" fill="#ff7b3d"/>
 
   <!-- Question Block -->
   <g class="q-box">
-    <rect x="579" y="145" width="42" height="42" fill="url(#qBlockGrad)" stroke="#000000" stroke-width="3" rx="3"/>
-    <rect x="583" y="149" width="4" height="4" fill="#ffffff"/>
-    <rect x="613" y="149" width="4" height="4" fill="#ffffff"/>
-    <rect x="583" y="179" width="4" height="4" fill="#000000"/>
-    <rect x="613" y="179" width="4" height="4" fill="#000000"/>
-    <text x="600" y="174" text-anchor="middle" font-family="'Press Start 2P', monospace" font-size="24" font-weight="bold" fill="#000000">?</text>
+    <rect x="578" y="165" width="44" height="44" fill="url(#qBlockGrad)" stroke="#000000" stroke-width="3" rx="3"/>
+    <rect x="582" y="169" width="4" height="4" fill="#ffffff"/>
+    <rect x="614" y="169" width="4" height="4" fill="#ffffff"/>
+    <rect x="582" y="201" width="4" height="4" fill="#000000"/>
+    <rect x="614" y="201" width="4" height="4" fill="#000000"/>
+    <text x="600" y="196" text-anchor="middle" font-family="'Press Start 2P', monospace" font-size="24" font-weight="bold" fill="#000000">?</text>
   </g>
 
   <!-- Right Brick -->
-  <rect x="638" y="145" width="42" height="42" fill="#d94e00" stroke="#000000" stroke-width="3" rx="2"/>
-  <rect x="642" y="149" width="16" height="14" fill="#ff7b3d"/>
-  <rect x="660" y="149" width="16" height="14" fill="#ff7b3d"/>
-  <rect x="642" y="167" width="34" height="14" fill="#ff7b3d"/>
+  <rect x="638" y="165" width="44" height="44" fill="#d94e00" stroke="#000000" stroke-width="3" rx="2"/>
+  <rect x="642" y="169" width="17" height="15" fill="#ff7b3d"/>
+  <rect x="661" y="169" width="17" height="15" fill="#ff7b3d"/>
+  <rect x="642" y="188" width="36" height="15" fill="#ff7b3d"/>
 
   <!-- GREEN WARP PIPE (RIGHT SIDE) -->
-  <g transform="translate(1040, 150)">
+  <g transform="translate(1040, 162)">
     <!-- Pipe Top Rim -->
-    <rect x="0" y="0" width="80" height="24" fill="#38b000" stroke="#000000" stroke-width="3" rx="2"/>
-    <rect x="5" y="3" width="15" height="18" fill="#70e000" opacity="0.8"/>
-    <rect x="60" y="3" width="15" height="18" fill="#007200" opacity="0.6"/>
+    <rect x="0" y="0" width="84" height="26" fill="#38b000" stroke="#000000" stroke-width="3" rx="2"/>
+    <rect x="5" y="3" width="16" height="20" fill="#70e000" opacity="0.8"/>
+    <rect x="63" y="3" width="16" height="20" fill="#007200" opacity="0.6"/>
 
     <!-- Pipe Stem -->
-    <rect x="6" y="24" width="68" height="56" fill="#38b000" stroke="#000000" stroke-width="3"/>
-    <rect x="11" y="24" width="12" height="56" fill="#70e000" opacity="0.8"/>
-    <rect x="56" y="24" width="12" height="56" fill="#007200" opacity="0.6"/>
+    <rect x="6" y="26" width="72" height="62" fill="#38b000" stroke="#000000" stroke-width="3"/>
+    <rect x="11" y="26" width="13" height="62" fill="#70e000" opacity="0.8"/>
+    <rect x="59" y="26" width="13" height="62" fill="#007200" opacity="0.6"/>
   </g>
 
   <!-- GROUND (BRICK PATTERN) -->
-  <rect x="0" y="230" width="1200" height="50" fill="url(#marioBrick)"/>
-  <line x1="0" y1="230" x2="1200" y2="230" stroke="#000000" stroke-width="4"/>
+  <rect x="0" y="250" width="1200" height="50" fill="url(#marioBrick)"/>
+  <line x1="0" y1="250" x2="1200" y2="250" stroke="#000000" stroke-width="4"/>
 
   <!-- RUNNING MARIO HERO ANIMATION -->
   <g id="runningMario">
@@ -180,6 +186,6 @@
       <rect x="4" y="1" width="12" height="4" fill="#e52521"/>
       <rect x="13" y="4" width="5" height="2" fill="#e52521"/>
     </g>
-    <animateMotion path="M -80 207 L 1280 207" dur="8.5s" repeatCount="indefinite"/>
+    <animateMotion path="M -80 227 L 1280 227" dur="8.5s" repeatCount="indefinite"/>
   </g>
 </svg>
