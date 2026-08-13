@@ -3,11 +3,8 @@
 <!-- ═══════════════════════════════════════════════ -->
 <!-- ██  RETRO PLATFORMER HERO ANIMATION           ██ -->
 <!-- ═══════════════════════════════════════════════ -->
-<!-- Upload retro-hero-banner.svg to your repo (e.g. /assets/retro-hero-banner.svg), -->
-<!-- then replace the src below with your raw.githubusercontent.com URL, e.g.: -->
-<!-- https://raw.githubusercontent.com/PrasanaKumarA/PrasanaKumarA/main/assets/retro-hero-banner.svg -->
 
-<img src="/home/prasana-kumar-a/PrasanaKumarA/assets/retro-hero-banner.svg" width="100%"/>
+<img src="assets/retro-hero-banner.svg" width="100%" alt="Retro Platformer Hero Banner"/>
 
 <!-- ═══════════════════════════════════════════════ -->
 <!-- ██  ARCADE BOOT SCREEN HEADER                ██ -->
@@ -15,6 +12,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,25:ff00c8,60:00f0ff,100:0d0221&height=8&width=100%"/>
 
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d0221,25:ff00c8,60:7000ff,100:00f0ff&height=220&section=header&text=PRASANA%20KUMAR%20A&fontSize=46&fontColor=ffffff&fontAlignY=34&animation=twinkling&desc=LVL%2099%20%7C%20DEVOPS%20ARCHITECT%20CLASS%20%7C%20TECH4GOOD%20FELLOW&descSize=15&descColor=00f0ff&descAlignY=56"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,50:ff00c8,100:0d0221&height=8&width=100%"/>
 
@@ -206,6 +204,7 @@ Grinding through an ongoing campaign to architect enterprise open-source softwar
 Grants disaster-recovery revival — automated snapshot backup and restore for K3s cluster state, stashed safely in AWS S3.
 
 `Kubernetes` `K3s` `etcd` `AWS S3` `Bash`
+<br/>
 [→ Open Chest](https://github.com/PrasanaKumarA)
 
 </td>
@@ -215,6 +214,7 @@ Grants disaster-recovery revival — automated snapshot backup and restore for K
 A self-hosted vault — secure private container image registry with custom auth and Compose orchestration.
 
 `Docker Registry` `Docker Compose` `Linux` `Nginx`
+<br/>
 [→ Open Chest](https://github.com/PrasanaKumarA)
 
 </td>
@@ -226,6 +226,7 @@ A self-hosted vault — secure private container image registry with custom auth
 Auto-cast messaging spell — WhatsApp Business API automation engine on Node.js, Docker, PostgreSQL, and Redis.
 
 `Node.js` `PostgreSQL` `Redis` `Docker`
+<br/>
 [→ Open Chest](https://github.com/PrasanaKumarA/WhatoMate)
 
 </td>
@@ -235,6 +236,7 @@ Auto-cast messaging spell — WhatsApp Business API automation engine on Node.js
 A scrying orb — automated E2E test suite for UI testing, bug detection, and execution reports.
 
 `Cypress` `JavaScript` `E2E Testing` `QA`
+<br/>
 [→ Open Chest](https://github.com/PrasanaKumarA/Idlistack-testing-Cypress-)
 
 </td>
@@ -246,6 +248,7 @@ A scrying orb — automated E2E test suite for UI testing, bug detection, and ex
 A merchant's ledger — web app for enterprise inventory tracking and billing workflow management.
 
 `PHP` `HTML/CSS` `JavaScript` `SQL`
+<br/>
 [→ Open Chest](https://github.com/PrasanaKumarA/Arockia-Electricals)
 
 </td>
@@ -255,6 +258,7 @@ A merchant's ledger — web app for enterprise inventory tracking and billing wo
 A treasurer's tome — enterprise financial accounting app replicating core ledger management features.
 
 `Python` `ERPNext` `Frappe Framework` `SQL`
+<br/>
 [→ Open Chest](https://github.com/PrasanaKumarA/Idlibook-v.0.0.1)
 
 </td>
@@ -295,7 +299,36 @@ A treasurer's tome — enterprise financial accounting app replicating core ledg
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=PrasanaKumarA&theme=radical&column=6&margin-w=12&margin-h=12&no-bg=true" width="100%"/>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/🏆_TELEMETRY_MASTER-PROMETHEUS_%26_GRAFANA-ff00c8?style=for-the-badge&logo=prometheus&logoColor=white&labelColor=0d0221"/><br/>
+      <sub>Built 24/7 Monitoring &amp; Alerting Pipeline</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/🛡️_INFRA_TANK-K8S_%26_DOCKER-00f0ff?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0d0221"/><br/>
+      <sub>Orchestrated K3s &amp; Private Registries</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/⚡_TECH4GOOD_FELLOW-AZIM_PREMJI_FDN-39ff14?style=for-the-badge&logo=openaccess&logoColor=white&labelColor=0d0221"/><br/>
+      <sub>Engineering Open-Source Impact</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/🧪_QA_SORCERER-CYPRESS_AUTOMATION-ffd700?style=for-the-badge&logo=cypress&logoColor=white&labelColor=0d0221"/><br/>
+      <sub>End-to-End E2E Test Suite Automation</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/☁️_CLOUD_PIONEER-AWS_S3_%26_ETCD-7000ff?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0d0221"/><br/>
+      <sub>Automated Disaster Recovery Backups</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/💼_ERP_BUILDER-FRAPPE_%26_ERPNEXT-ff2e63?style=for-the-badge&logo=erpnext&logoColor=white&labelColor=0d0221"/><br/>
+      <sub>Customized Enterprise Workflows</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -308,13 +341,15 @@ A treasurer's tome — enterprise financial accounting app replicating core ledg
 <img src="https://github-readme-stats.vercel.app/api?username=PrasanaKumarA&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=ff00c8&icon_color=00f0ff&text_color=c9d1d9&border_radius=12" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasanaKumarA&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=ff00c8&text_color=c9d1d9&border_radius=12" width="49%"/>
 
+<br/><br/>
+
 <img src="https://streak-stats.demolab.com/?user=PrasanaKumarA&theme=dark&hide_border=true&ring=ff00c8&fire=00f0ff&currStreakLabel=00f0ff&background=0d0221" width="100%"/>
+
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrasanaKumarA&bg_color=0d0221&color=00f0ff&line=ff00c8&point=ffffff&area=true&area_color=7000ff&hide_border=true&custom_title=DAILY+GRIND+LOG" width="100%"/>
 
 </div>
-
-> 🕹️ **Want a real moving animation, not just a static bar?** I can add a commit-eating **snake game** (`platane/snk` GitHub Action) that visually plays across your contribution graph in neon colors — genuinely animated, updates daily via a scheduled workflow. Say the word and I'll write the `.yml` for you.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4px"/>
 
@@ -324,8 +359,12 @@ A treasurer's tome — enterprise financial accounting app replicating core ledg
 
 **Press START to join the party** — open to collaborating on DevOps, cloud infra, and open-source builds.
 
+<br/>
+
 [![GitHub](https://img.shields.io/badge/GitHub-PrasanaKumarA-ff00c8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrasanaKumarA)
+&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00f0ff?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/PrasanaKumarA)
+&nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-Contact_Me-7000ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasana.kumar.a@example.com)
 
 </div>
