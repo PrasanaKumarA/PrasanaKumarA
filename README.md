@@ -1,119 +1,139 @@
 <div align="center">
 
-<!-- GTA GAME THEME HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,20:ff007f,45:ff5500,70:ffd700,85:00f0ff,100:0d1117&height=235&section=header&text=PRASANA%20KUMAR%20A&fontSize=46&fontColor=ffffff&fontAlignY=33&animation=twinkling&desc=MISSION%3A%20DEVOPS%20AND%20SOFTWARE%20ENGINEER%20%7C%20RESPECT%20%2B100&descSize=16&descColor=ffd700&descAlignY=55" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ██  ULTRA-PREMIUM HERO HEADER BANNER                        ██ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,20:0284c7,50:6366f1,75:3b82f6,100:0f172a&height=240&section=header&text=PRASANA%20KUMAR%20A&fontSize=48&fontColor=ffffff&fontAlignY=33&animation=twinkling&desc=DEVOPS%20ARCHITECT%20AND%20SOFTWARE%20ENGINEER&descSize=16&descColor=38bdf8&descAlignY=55" width="100%"/>
 
 <br/>
 
-<!-- GTA GAME TYPING ANIMATION -->
+<!-- ANIMATED 3D TECH SPRITES ROW -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="48" alt="Laptop"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" width="48" alt="Security"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png" width="48" alt="Power"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" width="48" alt="Signal"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="48" alt="Engine"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="48" alt="Deploy"/>
+</p>
+
+<!-- HIGH-TECH TYPING SVG -->
 <a href="https://github.com/PrasanaKumarA">
-  <img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=16&duration=2500&pause=900&color=FFD700&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%E2%AD%90+MISSION+PASSED!+--+RESPECT+%2B100;%F0%9F%9A%97+PLAYER%3A+DEVOPS+AND+SOFTWARE+ENGINEER;%F0%9F%94%A7+QUEST%3A+BUILD+%7C+AUTOMATE+%7C+MONITOR+%7C+DEPLOY;%F0%9F%8F%86+POWERED+BY+TECH4GOOD+%40+AZIM+PREMJI+FOUNDATION" alt="GTA Typing Tagline"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=100&lines=%E2%9A%A1+Automating+Cloud+Infrastructure+%26+Kubernetes+Clusters;%F0%9F%93%8A+Real-Time+Telemetry+%26+Observability+with+Prometheus+%26+Grafana;%F0%9F%9A%80+Engineering+Tech4Good+Open-Source+Solutions+%40+Azim+Premji+Foundation" alt="High-Tech Typing SVG"/>
 </a>
 
 <br/>
 
-</div>
-
----
-
-# Hi, I'm Prasana Kumar A
-
-### **Tech4Good Fellow | DevOps & Software Engineering**
-
-I am a software engineer and DevOps fellow focused on cloud infrastructure, containerization, observability pipelines, and open-source software. I enjoy building practical, reliable systems, automating deployment workflows, monitoring infrastructure health, and engineering software for real-world impact.
-
----
-
-### 🟢 CURRENT STATUS
-
-```text
-🟢 Status      : Active Tech4Good Fellow @ Azim Premji Foundation
-📍 Location    : India
-💻 Engineering : DevOps / Software Engineering / Infrastructure
-🚀 Focusing On : Docker · Kubernetes · Prometheus · Grafana · Frappe
-```
-
----
-
-### 🧭 QUICK NAVIGATION
-
+<!-- SYSTEM STATUS HUD -->
 <p align="center">
-  <a href="#about-me"><strong>About Me</strong></a> &nbsp;•&nbsp;
-  <a href="#engineering-focus"><strong>Engineering Focus</strong></a> &nbsp;•&nbsp;
-  <a href="#technical-skills"><strong>Technical Skills</strong></a> &nbsp;•&nbsp;
-  <a href="#experience"><strong>Experience</strong></a> &nbsp;•&nbsp;
-  <a href="#featured-projects"><strong>Featured Projects</strong></a> &nbsp;•&nbsp;
-  <a href="#systems-ive-built"><strong>Systems Built</strong></a> &nbsp;•&nbsp;
-  <a href="#currently-learning"><strong>Learning Roadmap</strong></a> &nbsp;•&nbsp;
-  <a href="#github-activity"><strong>Activity</strong></a> &nbsp;•&nbsp;
-  <a href="#connect"><strong>Connect</strong></a>
+  <img src="https://img.shields.io/badge/SYSTEM_STATUS-OPERATIONAL-10b981?style=for-the-badge&logo=opsgenie&logoColor=white&labelColor=0f172a"/>
+  &nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=PrasanaKumarA&style=for-the-badge&color=0284c7&label=TOTAL+VISITORS&labelColor=0f172a"/>
+  &nbsp;&nbsp;
+  <a href="https://github.com/PrasanaKumarA?tab=followers">
+    <img src="https://img.shields.io/github/followers/PrasanaKumarA?label=ALLIED+ENGINEERS&style=for-the-badge&logo=github&logoColor=ffffff&color=6366f1&labelColor=0f172a"/>
+  </a>
 </p>
 
----
+</div>
 
-<a name="about-me"></a>
-## 👨‍💻 ABOUT ME
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ██  ANIMATED GLOWING DIVIDER                               ██ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-I am currently a **Tech4Good Fellow** working with the **Azim Premji Foundation** (August 2025 – Present). My core focus lies at the intersection of **software development** and **DevOps infrastructure**.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4px"/>
 
-Rather than relying on abstract theory, I prioritize hands-on engineering — provisioning containerized environments with **Docker** and **Kubernetes (K3s)**, building real-time observability dashboards with **Prometheus** and **Grafana**, writing automated testing suites with **Cypress**, and customizing enterprise software using the **Frappe Framework**.
+## 👋 &nbsp;ABOUT ME
 
-- 🔭 **Building:** Real-time infrastructure monitoring & automated incident alert webhooks.
-- ⚙️ **Automating:** CI/CD deployment pipelines, etcd backup snapshots, and server administration tasks.
-- 🧪 **Testing:** End-to-end integration and UI validation suites.
-- 🤝 **Contributing:** Open-source software designed for social sector impact.
+<table width="100%">
+<tr>
+<td width="65%" valign="top">
 
----
+### **Prasana Kumar A**
+**Tech4Good Fellow | DevOps & Software Engineer**
 
-<a name="engineering-focus"></a>
-## 🏗️ ENGINEERING FOCUS
+I am a software engineer and DevOps fellow specialized in **cloud infrastructure**, **container orchestration**, **observability pipelines**, and **open-source development**. Currently working as a **Tech4Good Fellow with the Azim Premji Foundation**, I engineer scalable software and automated infrastructure to solve real-world problems.
+
+- 🌍 **Based In:** India 🇮🇳
+- 🏛️ **Organization:** Tech4Good Community × Azim Premji Foundation *(Aug 2025 – Present)*
+- ⚡ **Core Specialties:** Docker · Kubernetes (K3s) · Prometheus · Grafana · Frappe Framework · Cypress · AWS
+- 🎯 **Mission:** *"Automate infrastructure, ensure 99.9% telemetry observability, and build open-source software for high-impact social sectors."*
+
+</td>
+<td width="35%" align="center" valign="middle">
+
+```
+┌──────────────────────────────────────┐
+│     ⚡ SYSTEM ARCHITECTURE HUD       │
+├──────────────────────────────────────┤
+│ 🛡️ ROLE      : DevOps Architect     │
+│ 💻 FELLOWSHIP : Tech4Good Fellow     │
+│ 🌐 INFRA     : K3s / Docker / AWS    │
+│ 📊 TELEMETRY : Prometheus & Grafana  │
+│ 🧪 TESTING   : Cypress Integration   │
+│ 🟢 STATUS    : ACTIVE & DEPLOYING    │
+└──────────────────────────────────────┘
+```
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4px"/>
+
+## 🏗️ &nbsp;ENGINEERING FOCUS
 
 <table width="100%">
   <tr>
     <td width="33%" valign="top">
       <h4>☸️ Infrastructure</h4>
-      <p>Containerization, cluster provisioning, microservices orchestration, and declarative management.</p>
+      <p>Containerization, K3s Kubernetes clustering, Helm microservices, and declarative cloud setup.</p>
       <p><code>Docker</code> · <code>Kubernetes</code> · <code>K3s</code> · <code>Helm</code></p>
     </td>
     <td width="33%" valign="top">
       <h4>📊 Observability</h4>
-      <p>Real-time metrics collection, system dashboarding, and automated incident alert webhooks.</p>
+      <p>Real-time telemetry, host metric scraping, Grafana dashboards, and automated incident alert webhooks.</p>
       <p><code>Prometheus</code> · <code>Grafana</code> · <code>Node Exporter</code></p>
     </td>
     <td width="33%" valign="top">
       <h4>⚙️ Automation</h4>
-      <p>Streamlining deployments, etcd disaster recovery backups, and shell administration scripts.</p>
+      <p>Automated deployment pipelines, etcd disaster recovery backups, and system administration scripts.</p>
       <p><code>CI/CD</code> · <code>Bash</code> · <code>Python</code> · <code>Git</code></p>
     </td>
   </tr>
   <tr>
     <td width="33%" valign="top">
-      <h4>☁️ Cloud</h4>
-      <p>Cloud infrastructure configuration, object storage integration, and web server proxying.</p>
-      <p><code>AWS EC2</code> · <code>Amazon S3</code> · <code>Nginx</code></p>
+      <h4>☁️ Cloud & Web Servers</h4>
+      <p>Cloud infrastructure configuration, AWS S3 object backups, Nginx reverse proxy, and Linux Ubuntu.</p>
+      <p><code>AWS EC2</code> · <code>Amazon S3</code> · <code>Nginx</code> · <code>Ubuntu</code></p>
     </td>
     <td width="33%" valign="top">
-      <h4>🧪 Quality & QA</h4>
-      <p>Automated end-to-end testing, UI validation, regression suites, and bug detection.</p>
-      <p><code>Cypress</code> · <code>Integration Testing</code> · <code>QA</code></p>
+      <h4>🧪 Quality Assurance</h4>
+      <p>Automated end-to-end integration testing, UI validation suites, and bug detection reporting.</p>
+      <p><code>Cypress E2E</code> · <code>Integration QA</code> · <code>Testing</code></p>
     </td>
     <td width="33%" valign="top">
-      <h4>🐧 Systems</h4>
-      <p>Linux administration, process monitoring, network security, and server optimization.</p>
-      <p><code>Linux Ubuntu</code> · <code>Networking</code> · <code>Security</code></p>
+      <h4>💼 Enterprise Apps</h4>
+      <p>Custom enterprise business applications, ERPNext modules, and full-stack web platforms.</p>
+      <p><code>Frappe Framework</code> · <code>ERPNext</code> · <code>Node.js</code></p>
     </td>
   </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4px"/>
 
-<a name="technical-skills"></a>
-## 🧰 TECHNICAL SKILLS
+## 🧰 &nbsp;TECHNICAL ARMORY
 
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,js,php,html,css,postgres,bash,docker,kubernetes,aws,nginx,linux,ubuntu,git,github,cypress&perline=8" alt="Technical Skills Grid" />
+  <img src="https://skillicons.dev/icons?i=python,js,php,html,css,postgres,bash,docker,kubernetes,aws,nginx,linux,ubuntu,git,github,cypress&perline=8" alt="Technical Armory Grid" />
 </a>
 
 <br/><br/>
@@ -147,7 +167,7 @@ Rather than relying on abstract theory, I prioritize hands-on engineering — pr
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
     </td>
     <td width="25%" valign="top">
-      <h4>📊 Monitoring & QA</h4>
+      <h4>📊 Telemetry & QA</h4>
       <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/><br/>
       <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/><br/>
       <img src="https://img.shields.io/badge/Node_Exporter-000000?style=flat-square&logo=prometheus&logoColor=white"/><br/>
@@ -159,43 +179,41 @@ Rather than relying on abstract theory, I prioritize hands-on engineering — pr
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4px"/>
 
-<a name="experience"></a>
-## 💼 EXPERIENCE
+## 💼 &nbsp;PROFESSIONAL EXPERIENCE
 
-### **Tech4Good Community × Azim Premji Foundation**
+### 🏛️ **Tech4Good Community × Azim Premji Foundation**
 **Tech4Good Fellow** | *August 2025 – Present*
 
-Contributing to production software development and infrastructure management:
-- **Software Engineering:** Built and customized enterprise applications using Python, JavaScript, PHP, and Frappe Framework.
-- **DevOps & Infrastructure:** Provisioned containerized microservice environments using Docker, Docker Compose, and web servers.
-- **Observability & Monitoring:** Designed real-time server telemetry systems using Prometheus, Grafana, and Node Exporter with automated WhatsApp incident alert webhooks.
-- **Quality Assurance:** Implemented end-to-end Cypress test suites for UI regression testing and validation.
-- **Automation & Cloud:** Streamlined deployment workflows using Git, Linux system administration, and cloud storage integrations.
+Architecting enterprise open-source software and production DevOps infrastructure:
+- **Software Engineering:** Developing scalable web platforms using Python, JavaScript, PHP, and Frappe Framework.
+- **DevOps & Cloud:** Provisioning Docker microservices, Kubernetes cluster environments, and web server proxies.
+- **Observability Pipelines:** Building real-time Prometheus host metric collection, Grafana dashboards, and automated emergency WhatsApp incident webhooks.
+- **Quality Assurance:** Implementing Cypress E2E automated test suites for continuous application stability.
+- **System Administration:** Automating Linux administration workflows, writing shell scripts, and managing cloud storage backups.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4px"/>
 
-<a name="featured-projects"></a>
-## 🚀 FEATURED PROJECTS
+## 🚀 &nbsp;FEATURED PROJECTS
 
-<!-- FEATURED PROJECT 01 -->
+<!-- FLAGSHIP PROJECT 01 -->
 <table width="100%">
   <tr>
-    <td colspan="2" bgcolor="#161b22">
-      <h3>01 — Grafana + Prometheus + WhatsApp Monitoring</h3>
+    <td colspan="2">
+      <h3>📡 01 [PRIMARY] — Grafana + Prometheus + WhatsApp Monitoring</h3>
       <p><code>grafana-prometheus-whatsapp-monitoring</code></p>
     </td>
   </tr>
   <tr>
     <td width="75%" valign="top">
-      <p><strong>Problem Solved:</strong> Eliminates undetected server downtime by capturing real-time Linux host CPU and memory metrics and firing instant incident alerts to mobile devices.</p>
-      <p><strong>Overview:</strong> Infrastructure telemetry pipeline engineered with Prometheus scraping Node Exporter metrics, Grafana visualization dashboards, and a custom Node.js webhook service triggering WhatsApp API notifications upon threshold breaches.</p>
-      <p><strong>Technologies:</strong> <code>Docker</code> · <code>Prometheus</code> · <code>Grafana</code> · <code>Node Exporter</code> · <code>Node.js</code> · <code>WhatsApp Cloud API</code></p>
+      <p><strong>Problem Solved:</strong> Prevents silent server crashes by measuring Linux host CPU/RAM metrics in real time and firing instant WhatsApp alerts to on-call engineers upon threshold breach.</p>
+      <p><strong>Architecture:</strong> Prometheus scrapes host metrics from Node Exporter, Grafana evaluates alert thresholds, and a custom Node.js webhook triggers Meta WhatsApp Cloud API messages.</p>
+      <p><strong>Stack:</strong> <code>Docker</code> · <code>Prometheus</code> · <code>Grafana</code> · <code>Node Exporter</code> · <code>Node.js</code> · <code>WhatsApp API</code></p>
     </td>
     <td width="25%" align="center" valign="middle">
       <a href="https://github.com/PrasanaKumarA/grafana-prometheus-whatsapp-monitoring">
-        <img src="https://img.shields.io/badge/View_Repository-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
+        <img src="https://img.shields.io/badge/Launch_Repo-0284c7?style=for-the-badge&logo=github&logoColor=white" alt="Launch Repository"/>
       </a>
     </td>
   </tr>
@@ -203,17 +221,17 @@ Contributing to production software development and infrastructure management:
 
 <br/>
 
-<!-- PROJECTS MATRIX GRID -->
+<!-- PROJECTS GRID -->
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>02 — K3s etcd Backup & Restore</h4>
-      <p>Automated snapshot backup and disaster-recovery restoration system for lightweight K3s Kubernetes cluster state backed up to AWS S3 storage.</p>
+      <h4>🛡️ 02 — K3s etcd Backup & Restore</h4>
+      <p>Automated snapshot backup and disaster-recovery restoration system for K3s Kubernetes cluster state backed up to AWS S3 storage.</p>
       <p><code>Kubernetes</code> · <code>K3s</code> · <code>etcd</code> · <code>AWS S3</code> · <code>Bash</code></p>
       <p><a href="https://github.com/PrasanaKumarA">→ View Repository</a></p>
     </td>
     <td width="50%" valign="top">
-      <h4>03 — Private Docker Registry</h4>
+      <h4>🐳 03 — Private Docker Registry</h4>
       <p>Self-hosted, secure private Docker container image registry with custom authentication and Docker Compose service orchestration.</p>
       <p><code>Docker Registry</code> · <code>Docker Compose</code> · <code>Linux</code> · <code>Nginx</code></p>
       <p><a href="https://github.com/PrasanaKumarA">→ View Repository</a></p>
@@ -221,27 +239,27 @@ Contributing to production software development and infrastructure management:
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>04 — Whatomate</h4>
-      <p>WhatsApp Business API automation engine built with Node.js, Docker, PostgreSQL, and Redis for handling high-concurrency inbound webhook events.</p>
+      <h4>💬 04 — Whatomate</h4>
+      <p>WhatsApp Business API automation engine built with Node.js, Docker, PostgreSQL, and Redis for high-concurrency webhooks.</p>
       <p><code>Node.js</code> · <code>PostgreSQL</code> · <code>Redis</code> · <code>Docker</code></p>
       <p><a href="https://github.com/PrasanaKumarA/WhatoMate">→ View Repository</a></p>
     </td>
     <td width="50%" valign="top">
-      <h4>05 — IdliStack Cypress Testing</h4>
-      <p>Automated end-to-end integration test suite designed for web application UI testing, automated bug detection, and test execution reporting.</p>
-      <p><code>Cypress</code> · <code>JavaScript</code> · <code>E2E Testing</code> · <code>Automation</code></p>
+      <h4>🧪 05 — IdliStack Cypress Testing</h4>
+      <p>Automated end-to-end integration test suite designed for web application UI testing, automated bug detection, and execution reports.</p>
+      <p><code>Cypress</code> · <code>JavaScript</code> · <code>E2E Testing</code> · <code>QA</code></p>
       <p><a href="https://github.com/PrasanaKumarA/Idlistack-testing-Cypress-">→ View Repository</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>06 — Arockia Electricals</h4>
+      <h4>⚡ 06 — Arockia Electricals</h4>
       <p>Web application engineered for enterprise inventory tracking, billing workflow management, and operational record management.</p>
       <p><code>PHP</code> · <code>HTML/CSS</code> · <code>JavaScript</code> · <code>SQL</code></p>
       <p><a href="https://github.com/PrasanaKumarA/Arockia-Electricals">→ View Repository</a></p>
     </td>
     <td width="50%" valign="top">
-      <h4>07 — Idlibook v0.0.1</h4>
+      <h4>📊 07 — Idlibook v0.0.1</h4>
       <p>Enterprise financial accounting application replicating core Zoho Books functionality for managing business transaction ledgers.</p>
       <p><code>Python</code> · <code>ERPNext</code> · <code>Frappe Framework</code> · <code>SQL</code></p>
       <p><a href="https://github.com/PrasanaKumarA/Idlibook-v.0.0.1">→ View Repository</a></p>
@@ -249,122 +267,65 @@ Contributing to production software development and infrastructure management:
   </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4px"/>
 
-<a name="systems-ive-built"></a>
-## 🏗️ SYSTEMS I'VE BUILT
+## 📐 &nbsp;SYSTEM ARCHITECTURE DIAGRAMS
 
-### 1. General Infrastructure Pipeline Architecture
-
-```text
-  ┌──────────────┐     ┌──────────────┐     ┌────────────────┐
-  │ Applications │ ──> │ Docker Container│ ──> │ Infrastructure │
-  └──────────────┘     └──────────────┘     └────────────────┘
-                                                    │
-  ┌──────────────┐     ┌──────────────┐             ▼
-  │  Automation  │ <── │ Alert Webhook│ <── ┌────────────────┐
-  └──────────────┘     └──────────────┘     │   Monitoring   │
-                                            └────────────────┘
-```
-
-### 2. Prometheus + Grafana + WhatsApp Monitoring Pipeline Architecture
+### Prometheus + Grafana + WhatsApp Telemetry Flow
 
 ```text
-  ┌──────────────────┐
-  │  Linux Host OS   │
-  │ (Node Exporter)  │
-  └────────┬─────────┘
-           │ (Scrape Metrics /metrics)
-           ▼
-  ┌──────────────────┐
-  │ Prometheus Server│
-  └────────┬─────────┘
-           │ (Evaluate Alert Rules)
-           ▼
-  ┌──────────────────┐      (Trigger Webhook Alert)     ┌─────────────────────┐
-  │ Grafana Dashboard│ ───────────────────────────────> │  Node.js Webhook    │
-  └──────────────────┘                                  └──────────┬──────────┘
-                                                                   │ (HTTPS Request)
-                                                                   ▼
-                                                        ┌─────────────────────┐
-                                                        │ WhatsApp Cloud API  │
-                                                        └─────────────────────┘
+  ┌──────────────────────┐
+  │   Linux Host OS      │
+  │  (Node Exporter)     │
+  └──────────┬───────────┘
+             │ (Scrape /metrics every 15s)
+             ▼
+  ┌──────────────────────┐
+  │  Prometheus Server   │
+  └──────────┬───────────┘
+             │ (Evaluate Alert Rules)
+             ▼
+  ┌──────────────────────┐        (Trigger HTTP Webhook)        ┌────────────────────────┐
+  │  Grafana Dashboard   │ ───────────────────────────────────> │  Node.js Webhook Server│
+  └──────────────────────┘                                      └───────────┬────────────┘
+                                                                            │ (Meta OAuth Call)
+                                                                            ▼
+                                                                ┌────────────────────────┐
+                                                                │  WhatsApp Cloud API    │
+                                                                └────────────────────────┘
 ```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4px"/>
 
-<a name="currently-learning"></a>
-## 📚 CURRENTLY LEARNING
-
-```text
-  Kubernetes & K3s Cluster Orchestration
-                  ↓
-  Advanced Docker Container Security
-                  ↓
-  AWS Cloud Infrastructure & Terraform IaC
-                  ↓
-  Automated CI/CD Pipelines (GitHub Actions)
-                  ↓
-  Observability & Site Reliability Engineering (SRE)
-                  ↓
-  Open-Source Tech4Good Project Scaling
-```
-
----
-
-<a name="github-activity"></a>
-## 📈 GITHUB ACTIVITY
+## 📈 &nbsp;SYSTEM TELEMETRY & ANALYTICS
 
 <div align="center">
 
 <table width="100%">
   <tr>
     <td width="100%" align="center">
-      <img src="https://streak-stats.demolab.com/?user=PrasanaKumarA&theme=dark&hide_border=true&ring=2563eb&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=94a3b8&background=0d1117" width="100%" alt="GitHub Streak Stats"/>
+      <img src="https://streak-stats.demolab.com/?user=PrasanaKumarA&theme=dark&hide_border=true&ring=0284c7&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=6366f1&background=0f172a" width="100%" alt="Streak Stats"/>
     </td>
   </tr>
   <tr>
     <td width="100%" align="center">
       <br/>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrasanaKumarA&bg_color=0d1117&color=38bdf8&line=2563eb&point=ffffff&area=true&area_color=2563eb&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY%20GRAPH" width="100%" alt="Activity Graph"/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrasanaKumarA&bg_color=0f172a&color=38bdf8&line=0284c7&point=ffffff&area=true&area_color=0284c7&hide_border=true&custom_title=CONTRIBUTION+ACTIVITY+TELEMETRY" width="100%" alt="Activity Telemetry Graph"/>
     </td>
   </tr>
 </table>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4px"/>
 
-## 🏆 ACHIEVEMENTS & MILESTONES
-
-- 🏆 **Production Monitoring System:** Engineered real-time server telemetry with automated WhatsApp alerting pipelines.
-- 🛡️ **Disaster Recovery Strategy:** Provisioned automated K3s etcd snapshot backup routines synced to AWS S3.
-- ⚡ **Tech4Good Fellowship:** Selected to build open-source software and DevOps infrastructure for social impact.
-- 🧪 **Automated Testing:** Designed end-to-end Cypress UI testing suites for application quality assurance.
-
----
-
-## 🎯 PROFESSIONAL GOALS
-
-- 🚀 Expand expertise in **DevOps**, Kubernetes orchestration, and cloud infrastructure management.
-- 📊 Master advanced observability, tracing, and Site Reliability Engineering (SRE) practices.
-- ⚡ Build reliable, automated CI/CD pipelines to streamline deployment workflows.
-- 🤝 Continue contributing to open-source software for community and social benefit.
-
----
-
-## 🤝 OPEN TO COLLABORATION
-
-I am open to collaborating on open-source DevOps projects, cloud infrastructure setups, containerization experiments, automation scripting, and practical web applications.
-
----
-
-<a name="connect"></a>
-## 📫 CONNECT
+## 🤝 &nbsp;CONNECT WITH ME
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-PrasanaKumarA-2563eb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrasanaKumarA)
+<p>Interested in collaborating on open-source DevOps, cloud infrastructure, or software automation projects? Reach out below!</p>
+
+[![GitHub](https://img.shields.io/badge/GitHub-PrasanaKumarA-0284c7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrasanaKumarA)
 &nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/PrasanaKumarA)
 &nbsp;&nbsp;
@@ -372,16 +333,20 @@ I am open to collaborating on open-source DevOps projects, cloud infrastructure 
 
 </div>
 
----
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ██  ULTRA-PREMIUM FOOTER BANNER                             ██ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,20:ff007f,45:ff5500,70:ffd700,85:00f0ff,100:0d1117&height=120&section=footer" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,20:0284c7,50:6366f1,75:3b82f6,100:0f172a&height=120&section=footer" width="100%"/>
 
 <br/>
 
 <p align="center">
-  <code>🚗 "MISSION PASSED! RESPECT +100 // LET'S-A BUILD SOMETHING GREAT TOGETHER."</code>
+  <code>⚡ "Engineering reliable systems, automating infrastructure, and scaling open-source impact."</code>
 </p>
 
 </div>
