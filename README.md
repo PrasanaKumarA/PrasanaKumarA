@@ -7,7 +7,7 @@
 <!-- then replace the src below with your raw.githubusercontent.com URL, e.g.: -->
 <!-- https://raw.githubusercontent.com/PrasanaKumarA/PrasanaKumarA/main/assets/retro-hero-banner.svg -->
 
-<img src="REPLACE_WITH_YOUR_RAW_GITHUB_URL/retro-hero-banner.svg" width="100%"/>
+<img src="/home/prasana-kumar-a/PrasanaKumarA/assets/retro-hero-banner.svg" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════ -->
 <!-- ██  ARCADE BOOT SCREEN HEADER                ██ -->
