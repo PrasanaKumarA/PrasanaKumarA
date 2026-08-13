@@ -4,7 +4,7 @@
 <!-- ██  SUPER MARIO WORLD — HEADER BANNER                      ██ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5c94fc,25:e52521,50:fbd000,75:049cd8,100:5c94fc&height=230&section=header&text=PRASANA%20KUMAR%20A&fontSize=46&fontColor=ffffff&fontAlignY=32&animation=twinkling&desc=WORLD%201-1%20%7C%20DEVOPS%20%26%20SOFTWARE%20ENGINEER&descSize=17&descColor=fbd000&descAlignY=54" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5c94fc,25:e52521,50:fbd000,75:049cd8,100:5c94fc&height=230&section=header&text=PRASANA%20KUMAR%20A&fontSize=46&fontColor=ffffff&fontAlignY=32&animation=twinkling&desc=WORLD%201-1%20%7C%20DEVOPS%20AND%20SOFTWARE%20ENGINEER&descSize=17&descColor=fbd000&descAlignY=54" width="100%"/>
 
 <br/>
 
@@ -25,7 +25,7 @@
 
 <!-- MARIO TYPING ANIMATION -->
 <a href="https://github.com/PrasanaKumarA">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2800&pause=800&color=FBD000&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=120&lines=%F0%9F%8D%84+WELCOME+TO+WORLD+1-1+--+PRESS+START;%F0%9F%8E%AE+PLAYER%3A+DEVOPS+%26+SOFTWARE+ENGINEER;%E2%AD%90+QUEST%3A+BUILD+%7C+AUTOMATE+%7C+MONITOR+%7C+DEPLOY;%F0%9F%8F%86+POWERED+BY+TECH4GOOD+%40+AZIM+PREMJI+FOUNDATION" alt="Mario Typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2800&pause=800&color=FBD000&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=120&lines=%F0%9F%8D%84+WELCOME+TO+WORLD+1-1+--+PRESS+START;%F0%9F%8E%AE+PLAYER%3A+DEVOPS+AND+SOFTWARE+ENGINEER;%E2%AD%90+QUEST%3A+BUILD+%7C+AUTOMATE+%7C+MONITOR+%7C+DEPLOY;%F0%9F%8F%86+POWERED+BY+TECH4GOOD+%40+AZIM+PREMJI+FOUNDATION" alt="Mario Typing"/>
 </a>
 
 <br/>
