@@ -3,8 +3,11 @@
 <!-- ═══════════════════════════════════════════════ -->
 <!-- ██  RETRO PLATFORMER HERO ANIMATION           ██ -->
 <!-- ═══════════════════════════════════════════════ -->
+<!-- Upload retro-hero-banner.svg to your repo (e.g. /assets/retro-hero-banner.svg), -->
+<!-- then replace the src below with your raw.githubusercontent.com URL, e.g.: -->
+<!-- https://raw.githubusercontent.com/PrasanaKumarA/PrasanaKumarA/main/assets/retro-hero-banner.svg -->
 
-<img src="https://raw.githubusercontent.com/PrasanaKumarA/PrasanaKumarA/main/assets/retro-hero-banner.svg" width="100%"/>
+<img src="REPLACE_WITH_YOUR_RAW_GITHUB_URL/retro-hero-banner.svg" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════ -->
 <!-- ██  ARCADE BOOT SCREEN HEADER                ██ -->
@@ -12,7 +15,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,25:ff00c8,60:00f0ff,100:0d0221&height=8&width=100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d0221,25:ff00c8,60:7000ff,100:00f0ff&height=230&section=header&text=PRASANA%20KUMAR%20A&fontSize=46&fontColor=ffffff&fontAlignY=34&animation=twinkling&desc=LVL%2099%20%7C%20DEVOPS%20ARCHITECT%20CLASS%20%7C%20TECH4GOOD%20FELLOW&descSize=15&descColor=00f0ff&descAlignY=56"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,50:ff00c8,100:0d0221&height=8&width=100%"/>
 
