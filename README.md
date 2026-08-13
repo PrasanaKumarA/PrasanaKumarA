@@ -1,6 +1,12 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════ -->
+<!-- ██  RETRO PLATFORMER HERO ANIMATION           ██ -->
+<!-- ═══════════════════════════════════════════════ -->
+
+<img src="https://raw.githubusercontent.com/PrasanaKumarA/PrasanaKumarA/main/assets/retro-hero-banner.svg" width="100%"/>
+
+<!-- ═══════════════════════════════════════════════ -->
 <!-- ██  ARCADE BOOT SCREEN HEADER                ██ -->
 <!-- ═══════════════════════════════════════════════ -->
 
