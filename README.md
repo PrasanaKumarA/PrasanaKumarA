@@ -266,7 +266,48 @@ Full-stack web application for the IdliStack platform built with HTML, CSS, and 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=PrasanaKumarA&theme=discord&column=6&margin-w=12&margin-h=12&no-bg=true" width="100%"/>
+<table width="100%">
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="55" alt="Gold Trophy"/><br/>
+      <h4>🏆 WORLD 1 CLEAR</h4>
+      <p><img src="https://img.shields.io/badge/STATUS-COMPLETED-e52521?style=flat-square"/></p>
+      <small>Prometheus + Grafana + WhatsApp Monitoring Pipeline</small>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="55" alt="Star Trophy"/><br/>
+      <h4>⭐ SUPER STAR</h4>
+      <p><img src="https://img.shields.io/badge/TECH4GOOD-FELLOW-fbd000?style=flat-square&labelColor=1a1a2e"/></p>
+      <small>Azim Premji Foundation Software & DevOps</small>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Mushroom.png" width="55" alt="Power Mushroom"/><br/>
+      <h4>🍄 POWER-UP MASTER</h4>
+      <p><img src="https://img.shields.io/badge/INFRA-DOCKER_%26_K3S-049cd8?style=flat-square"/></p>
+      <small>Container Orchestration & Automated Deployments</small>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="55" alt="Gem"/><br/>
+      <h4>💎 AUTOMATION CHAMP</h4>
+      <p><img src="https://img.shields.io/badge/QA-CYPRESS_E2E-17202C?style=flat-square"/></p>
+      <small>IdliStack Integration & E2E Test Suite</small>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crown.png" width="55" alt="Crown"/><br/>
+      <h4>👑 SPECIALIST</h4>
+      <p><img src="https://img.shields.io/badge/FRAMEWORK-FRAPPE_%26_ERPNEXT-0089FF?style=flat-square"/></p>
+      <small>Enterprise Applications & Python Systems</small>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="55" alt="Fire Flower"/><br/>
+      <h4>🔥 STREAK BUILDER</h4>
+      <p><img src="https://img.shields.io/badge/BUILD-ACTIVE-e52521?style=flat-square"/></p>
+      <small>Continuous Commits & System Building</small>
+    </td>
+  </tr>
+</table>
 
 </div>
 
